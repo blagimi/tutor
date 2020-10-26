@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Core", "Core\Core.shproj", "{8B5650C0-57C0-4786-BD5F-0A6634EEC68A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "First", "1\First.csproj", "{C28FE66D-EF77-4333-808F-956A747461A6}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Core\Core.projitems*{8b5650c0-57c0-4786-bd5f-0a6634eec68a}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C28FE66D-EF77-4333-808F-956A747461A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C28FE66D-EF77-4333-808F-956A747461A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C28FE66D-EF77-4333-808F-956A747461A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C28FE66D-EF77-4333-808F-956A747461A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A5AABDF-2215-441F-BDB4-08C3F5EF78BC}
+	EndGlobalSection
+EndGlobal
