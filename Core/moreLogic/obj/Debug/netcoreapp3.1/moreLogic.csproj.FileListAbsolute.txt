@@ -1,0 +1,12 @@
+C:\Users\blagi\source\repos\tutor\Core\moreLogic\bin\Debug\netcoreapp3.1\moreLogic.exe
+C:\Users\blagi\source\repos\tutor\Core\moreLogic\bin\Debug\netcoreapp3.1\moreLogic.deps.json
+C:\Users\blagi\source\repos\tutor\Core\moreLogic\bin\Debug\netcoreapp3.1\moreLogic.runtimeconfig.json
+C:\Users\blagi\source\repos\tutor\Core\moreLogic\bin\Debug\netcoreapp3.1\moreLogic.runtimeconfig.dev.json
+C:\Users\blagi\source\repos\tutor\Core\moreLogic\bin\Debug\netcoreapp3.1\moreLogic.dll
+C:\Users\blagi\source\repos\tutor\Core\moreLogic\bin\Debug\netcoreapp3.1\moreLogic.pdb
+C:\Users\blagi\source\repos\tutor\Core\moreLogic\obj\Debug\netcoreapp3.1\moreLogic.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\moreLogic\obj\Debug\netcoreapp3.1\moreLogic.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\moreLogic\obj\Debug\netcoreapp3.1\moreLogic.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\moreLogic\obj\Debug\netcoreapp3.1\moreLogic.dll
+C:\Users\blagi\source\repos\tutor\Core\moreLogic\obj\Debug\netcoreapp3.1\moreLogic.pdb
+C:\Users\blagi\source\repos\tutor\Core\moreLogic\obj\Debug\netcoreapp3.1\moreLogic.genruntimeconfig.cache

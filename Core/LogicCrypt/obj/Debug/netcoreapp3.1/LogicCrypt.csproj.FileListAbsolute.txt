@@ -1,0 +1,13 @@
+C:\Users\blagi\source\repos\tutor\Core\LogicCrypt\obj\Debug\netcoreapp3.1\LogicCrypt.csprojAssemblyReference.cache
+C:\Users\blagi\source\repos\tutor\Core\LogicCrypt\obj\Debug\netcoreapp3.1\LogicCrypt.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\LogicCrypt\obj\Debug\netcoreapp3.1\LogicCrypt.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\LogicCrypt\obj\Debug\netcoreapp3.1\LogicCrypt.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\LogicCrypt\bin\Debug\netcoreapp3.1\LogicCrypt.exe
+C:\Users\blagi\source\repos\tutor\Core\LogicCrypt\bin\Debug\netcoreapp3.1\LogicCrypt.deps.json
+C:\Users\blagi\source\repos\tutor\Core\LogicCrypt\bin\Debug\netcoreapp3.1\LogicCrypt.runtimeconfig.json
+C:\Users\blagi\source\repos\tutor\Core\LogicCrypt\bin\Debug\netcoreapp3.1\LogicCrypt.runtimeconfig.dev.json
+C:\Users\blagi\source\repos\tutor\Core\LogicCrypt\bin\Debug\netcoreapp3.1\LogicCrypt.dll
+C:\Users\blagi\source\repos\tutor\Core\LogicCrypt\bin\Debug\netcoreapp3.1\LogicCrypt.pdb
+C:\Users\blagi\source\repos\tutor\Core\LogicCrypt\obj\Debug\netcoreapp3.1\LogicCrypt.dll
+C:\Users\blagi\source\repos\tutor\Core\LogicCrypt\obj\Debug\netcoreapp3.1\LogicCrypt.pdb
+C:\Users\blagi\source\repos\tutor\Core\LogicCrypt\obj\Debug\netcoreapp3.1\LogicCrypt.genruntimeconfig.cache

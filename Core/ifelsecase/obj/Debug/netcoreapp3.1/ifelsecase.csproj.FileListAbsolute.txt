@@ -1,0 +1,13 @@
+C:\Users\blagi\source\repos\tutor\Core\ifelsecase\bin\Debug\netcoreapp3.1\ifelsecase.exe
+C:\Users\blagi\source\repos\tutor\Core\ifelsecase\bin\Debug\netcoreapp3.1\ifelsecase.deps.json
+C:\Users\blagi\source\repos\tutor\Core\ifelsecase\bin\Debug\netcoreapp3.1\ifelsecase.runtimeconfig.json
+C:\Users\blagi\source\repos\tutor\Core\ifelsecase\bin\Debug\netcoreapp3.1\ifelsecase.runtimeconfig.dev.json
+C:\Users\blagi\source\repos\tutor\Core\ifelsecase\bin\Debug\netcoreapp3.1\ifelsecase.dll
+C:\Users\blagi\source\repos\tutor\Core\ifelsecase\bin\Debug\netcoreapp3.1\ifelsecase.pdb
+C:\Users\blagi\source\repos\tutor\Core\ifelsecase\obj\Debug\netcoreapp3.1\ifelsecase.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\ifelsecase\obj\Debug\netcoreapp3.1\ifelsecase.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\ifelsecase\obj\Debug\netcoreapp3.1\ifelsecase.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\ifelsecase\obj\Debug\netcoreapp3.1\ifelsecase.dll
+C:\Users\blagi\source\repos\tutor\Core\ifelsecase\obj\Debug\netcoreapp3.1\ifelsecase.pdb
+C:\Users\blagi\source\repos\tutor\Core\ifelsecase\obj\Debug\netcoreapp3.1\ifelsecase.genruntimeconfig.cache
+C:\Users\blagi\source\repos\tutor\Core\ifelsecase\obj\Debug\netcoreapp3.1\ifelsecase.csprojAssemblyReference.cache
