@@ -1,0 +1,12 @@
+C:\Users\blagi\source\repos\tutor\Core\MassTest\bin\Debug\netcoreapp3.1\MassTest.exe
+C:\Users\blagi\source\repos\tutor\Core\MassTest\bin\Debug\netcoreapp3.1\MassTest.deps.json
+C:\Users\blagi\source\repos\tutor\Core\MassTest\bin\Debug\netcoreapp3.1\MassTest.runtimeconfig.json
+C:\Users\blagi\source\repos\tutor\Core\MassTest\bin\Debug\netcoreapp3.1\MassTest.runtimeconfig.dev.json
+C:\Users\blagi\source\repos\tutor\Core\MassTest\bin\Debug\netcoreapp3.1\MassTest.dll
+C:\Users\blagi\source\repos\tutor\Core\MassTest\bin\Debug\netcoreapp3.1\MassTest.pdb
+C:\Users\blagi\source\repos\tutor\Core\MassTest\obj\Debug\netcoreapp3.1\MassTest.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\MassTest\obj\Debug\netcoreapp3.1\MassTest.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\MassTest\obj\Debug\netcoreapp3.1\MassTest.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\MassTest\obj\Debug\netcoreapp3.1\MassTest.dll
+C:\Users\blagi\source\repos\tutor\Core\MassTest\obj\Debug\netcoreapp3.1\MassTest.pdb
+C:\Users\blagi\source\repos\tutor\Core\MassTest\obj\Debug\netcoreapp3.1\MassTest.genruntimeconfig.cache

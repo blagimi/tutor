@@ -1,0 +1,12 @@
+C:\Users\blagi\source\repos\tutor\Core\Cikl\bin\Debug\netcoreapp3.1\Cikl.exe
+C:\Users\blagi\source\repos\tutor\Core\Cikl\bin\Debug\netcoreapp3.1\Cikl.deps.json
+C:\Users\blagi\source\repos\tutor\Core\Cikl\bin\Debug\netcoreapp3.1\Cikl.runtimeconfig.json
+C:\Users\blagi\source\repos\tutor\Core\Cikl\bin\Debug\netcoreapp3.1\Cikl.runtimeconfig.dev.json
+C:\Users\blagi\source\repos\tutor\Core\Cikl\bin\Debug\netcoreapp3.1\Cikl.dll
+C:\Users\blagi\source\repos\tutor\Core\Cikl\bin\Debug\netcoreapp3.1\Cikl.pdb
+C:\Users\blagi\source\repos\tutor\Core\Cikl\obj\Debug\netcoreapp3.1\Cikl.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\Cikl\obj\Debug\netcoreapp3.1\Cikl.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\Cikl\obj\Debug\netcoreapp3.1\Cikl.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\Cikl\obj\Debug\netcoreapp3.1\Cikl.dll
+C:\Users\blagi\source\repos\tutor\Core\Cikl\obj\Debug\netcoreapp3.1\Cikl.pdb
+C:\Users\blagi\source\repos\tutor\Core\Cikl\obj\Debug\netcoreapp3.1\Cikl.genruntimeconfig.cache
