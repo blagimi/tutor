@@ -1,0 +1,12 @@
+C:\Users\blagi\source\repos\tutor\Core\Korteji\bin\Debug\netcoreapp3.1\Korteji.exe
+C:\Users\blagi\source\repos\tutor\Core\Korteji\bin\Debug\netcoreapp3.1\Korteji.deps.json
+C:\Users\blagi\source\repos\tutor\Core\Korteji\bin\Debug\netcoreapp3.1\Korteji.runtimeconfig.json
+C:\Users\blagi\source\repos\tutor\Core\Korteji\bin\Debug\netcoreapp3.1\Korteji.runtimeconfig.dev.json
+C:\Users\blagi\source\repos\tutor\Core\Korteji\bin\Debug\netcoreapp3.1\Korteji.dll
+C:\Users\blagi\source\repos\tutor\Core\Korteji\bin\Debug\netcoreapp3.1\Korteji.pdb
+C:\Users\blagi\source\repos\tutor\Core\Korteji\obj\Debug\netcoreapp3.1\Korteji.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\Korteji\obj\Debug\netcoreapp3.1\Korteji.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\Korteji\obj\Debug\netcoreapp3.1\Korteji.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\Korteji\obj\Debug\netcoreapp3.1\Korteji.dll
+C:\Users\blagi\source\repos\tutor\Core\Korteji\obj\Debug\netcoreapp3.1\Korteji.pdb
+C:\Users\blagi\source\repos\tutor\Core\Korteji\obj\Debug\netcoreapp3.1\Korteji.genruntimeconfig.cache

@@ -15,13 +15,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "moreLogic", "moreLogic\more
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ifelsecase", "ifelsecase\ifelsecase.csproj", "{F0E0F0BB-933D-4CB8-B49A-898E6E809FAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cikl", "Cikl\Cikl.csproj", "{F81941C9-517A-49CB-BF45-7D0138D46795}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cikl", "Cikl\Cikl.csproj", "{F81941C9-517A-49CB-BF45-7D0138D46795}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Massive", "Massive\Massive.csproj", "{DF954148-DB47-453D-AAB3-4E1536E5EC85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Massive", "Massive\Massive.csproj", "{DF954148-DB47-453D-AAB3-4E1536E5EC85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTest", "MassTest\MassTest.csproj", "{4486DD89-980D-4FA6-890B-6582C120929C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MassTest", "MassTest\MassTest.csproj", "{4486DD89-980D-4FA6-890B-6582C120929C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{A24A7601-63DF-4957-A09F-FF4F183F722F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{A24A7601-63DF-4957-A09F-FF4F183F722F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Params", "Params\Params.csproj", "{7F0125EF-3EAF-4524-9781-87E7F0A46CCE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recursion", "Recursion\Recursion.csproj", "{06002DB2-362B-4D7E-AD6C-30EE94C26BB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerechisleniyaEnum", "PerechisleniyaEnum\PerechisleniyaEnum.csproj", "{4EC5B5E6-3A73-41DF-828B-9B0D989E270F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Korteji", "Korteji\Korteji.csproj", "{752DA822-322E-45BC-828A-1DA6E940EE01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clases", "Clases\Clases.csproj", "{2DD9B2C6-322F-4433-8C63-4F01D43F845A}"
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
@@ -68,6 +78,26 @@ Global
 		{A24A7601-63DF-4957-A09F-FF4F183F722F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A24A7601-63DF-4957-A09F-FF4F183F722F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A24A7601-63DF-4957-A09F-FF4F183F722F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F0125EF-3EAF-4524-9781-87E7F0A46CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F0125EF-3EAF-4524-9781-87E7F0A46CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F0125EF-3EAF-4524-9781-87E7F0A46CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F0125EF-3EAF-4524-9781-87E7F0A46CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06002DB2-362B-4D7E-AD6C-30EE94C26BB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06002DB2-362B-4D7E-AD6C-30EE94C26BB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06002DB2-362B-4D7E-AD6C-30EE94C26BB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06002DB2-362B-4D7E-AD6C-30EE94C26BB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EC5B5E6-3A73-41DF-828B-9B0D989E270F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EC5B5E6-3A73-41DF-828B-9B0D989E270F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EC5B5E6-3A73-41DF-828B-9B0D989E270F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EC5B5E6-3A73-41DF-828B-9B0D989E270F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{752DA822-322E-45BC-828A-1DA6E940EE01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{752DA822-322E-45BC-828A-1DA6E940EE01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{752DA822-322E-45BC-828A-1DA6E940EE01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{752DA822-322E-45BC-828A-1DA6E940EE01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DD9B2C6-322F-4433-8C63-4F01D43F845A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DD9B2C6-322F-4433-8C63-4F01D43F845A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DD9B2C6-322F-4433-8C63-4F01D43F845A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DD9B2C6-322F-4433-8C63-4F01D43F845A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,12 @@
+C:\Users\blagi\source\repos\tutor\Core\PerechisleniyaEnum\bin\Debug\netcoreapp3.1\PerechisleniyaEnum.exe
+C:\Users\blagi\source\repos\tutor\Core\PerechisleniyaEnum\bin\Debug\netcoreapp3.1\PerechisleniyaEnum.deps.json
+C:\Users\blagi\source\repos\tutor\Core\PerechisleniyaEnum\bin\Debug\netcoreapp3.1\PerechisleniyaEnum.runtimeconfig.json
+C:\Users\blagi\source\repos\tutor\Core\PerechisleniyaEnum\bin\Debug\netcoreapp3.1\PerechisleniyaEnum.runtimeconfig.dev.json
+C:\Users\blagi\source\repos\tutor\Core\PerechisleniyaEnum\bin\Debug\netcoreapp3.1\PerechisleniyaEnum.dll
+C:\Users\blagi\source\repos\tutor\Core\PerechisleniyaEnum\bin\Debug\netcoreapp3.1\PerechisleniyaEnum.pdb
+C:\Users\blagi\source\repos\tutor\Core\PerechisleniyaEnum\obj\Debug\netcoreapp3.1\PerechisleniyaEnum.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\PerechisleniyaEnum\obj\Debug\netcoreapp3.1\PerechisleniyaEnum.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\PerechisleniyaEnum\obj\Debug\netcoreapp3.1\PerechisleniyaEnum.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\PerechisleniyaEnum\obj\Debug\netcoreapp3.1\PerechisleniyaEnum.dll
+C:\Users\blagi\source\repos\tutor\Core\PerechisleniyaEnum\obj\Debug\netcoreapp3.1\PerechisleniyaEnum.pdb
+C:\Users\blagi\source\repos\tutor\Core\PerechisleniyaEnum\obj\Debug\netcoreapp3.1\PerechisleniyaEnum.genruntimeconfig.cache

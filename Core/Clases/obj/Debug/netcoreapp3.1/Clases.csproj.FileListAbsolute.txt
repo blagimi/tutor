@@ -1,0 +1,12 @@
+C:\Users\blagi\source\repos\tutor\Core\Clases\bin\Debug\netcoreapp3.1\Clases.exe
+C:\Users\blagi\source\repos\tutor\Core\Clases\bin\Debug\netcoreapp3.1\Clases.deps.json
+C:\Users\blagi\source\repos\tutor\Core\Clases\bin\Debug\netcoreapp3.1\Clases.runtimeconfig.json
+C:\Users\blagi\source\repos\tutor\Core\Clases\bin\Debug\netcoreapp3.1\Clases.runtimeconfig.dev.json
+C:\Users\blagi\source\repos\tutor\Core\Clases\bin\Debug\netcoreapp3.1\Clases.dll
+C:\Users\blagi\source\repos\tutor\Core\Clases\bin\Debug\netcoreapp3.1\Clases.pdb
+C:\Users\blagi\source\repos\tutor\Core\Clases\obj\Debug\netcoreapp3.1\Clases.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\Clases\obj\Debug\netcoreapp3.1\Clases.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\Clases\obj\Debug\netcoreapp3.1\Clases.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\Clases\obj\Debug\netcoreapp3.1\Clases.dll
+C:\Users\blagi\source\repos\tutor\Core\Clases\obj\Debug\netcoreapp3.1\Clases.pdb
+C:\Users\blagi\source\repos\tutor\Core\Clases\obj\Debug\netcoreapp3.1\Clases.genruntimeconfig.cache

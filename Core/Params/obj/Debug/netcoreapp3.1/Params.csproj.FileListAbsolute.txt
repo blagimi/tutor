@@ -1,0 +1,13 @@
+C:\Users\blagi\source\repos\tutor\Core\Params\bin\Debug\netcoreapp3.1\Params.exe
+C:\Users\blagi\source\repos\tutor\Core\Params\bin\Debug\netcoreapp3.1\Params.deps.json
+C:\Users\blagi\source\repos\tutor\Core\Params\bin\Debug\netcoreapp3.1\Params.runtimeconfig.json
+C:\Users\blagi\source\repos\tutor\Core\Params\bin\Debug\netcoreapp3.1\Params.runtimeconfig.dev.json
+C:\Users\blagi\source\repos\tutor\Core\Params\bin\Debug\netcoreapp3.1\Params.dll
+C:\Users\blagi\source\repos\tutor\Core\Params\bin\Debug\netcoreapp3.1\Params.pdb
+C:\Users\blagi\source\repos\tutor\Core\Params\obj\Debug\netcoreapp3.1\Params.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\Params\obj\Debug\netcoreapp3.1\Params.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\Params\obj\Debug\netcoreapp3.1\Params.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\Params\obj\Debug\netcoreapp3.1\Params.dll
+C:\Users\blagi\source\repos\tutor\Core\Params\obj\Debug\netcoreapp3.1\Params.pdb
+C:\Users\blagi\source\repos\tutor\Core\Params\obj\Debug\netcoreapp3.1\Params.genruntimeconfig.cache
+C:\Users\blagi\source\repos\tutor\Core\Params\obj\Debug\netcoreapp3.1\Params.csprojAssemblyReference.cache
