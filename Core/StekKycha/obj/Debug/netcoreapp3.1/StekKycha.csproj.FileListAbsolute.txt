@@ -1,0 +1,16 @@
+C:\Users\blagi\source\repos\tutor\Core\StekKycha\bin\Debug\netcoreapp3.1\StekKycha.exe
+C:\Users\blagi\source\repos\tutor\Core\StekKycha\bin\Debug\netcoreapp3.1\StekKycha.deps.json
+C:\Users\blagi\source\repos\tutor\Core\StekKycha\bin\Debug\netcoreapp3.1\StekKycha.runtimeconfig.json
+C:\Users\blagi\source\repos\tutor\Core\StekKycha\bin\Debug\netcoreapp3.1\StekKycha.runtimeconfig.dev.json
+C:\Users\blagi\source\repos\tutor\Core\StekKycha\bin\Debug\netcoreapp3.1\StekKycha.dll
+C:\Users\blagi\source\repos\tutor\Core\StekKycha\bin\Debug\netcoreapp3.1\StekKycha.pdb
+C:\Users\blagi\source\repos\tutor\Core\StekKycha\obj\Debug\netcoreapp3.1\StekKycha.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\StekKycha\obj\Debug\netcoreapp3.1\StekKycha.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\StekKycha\obj\Debug\netcoreapp3.1\StekKycha.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\StekKycha\obj\Debug\netcoreapp3.1\StekKycha.dll
+C:\Users\blagi\source\repos\tutor\Core\StekKycha\obj\Debug\netcoreapp3.1\StekKycha.pdb
+C:\Users\blagi\source\repos\tutor\Core\StekKycha\obj\Debug\netcoreapp3.1\StekKycha.genruntimeconfig.cache
+C:\Users\blagi\source\repos\tutor\Core\StekKycha\obj\Debug\netcoreapp3.1\StekKycha.csprojAssemblyReference.cache
+C:\Users\blagi\source\repos\tutor\Core\StekKycha\bin\Debug\netcoreapp3.1\MyLib.dll
+C:\Users\blagi\source\repos\tutor\Core\StekKycha\bin\Debug\netcoreapp3.1\MyLib.pdb
+C:\Users\blagi\source\repos\tutor\Core\StekKycha\obj\Debug\netcoreapp3.1\StekKycha.csproj.CopyComplete

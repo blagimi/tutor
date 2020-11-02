@@ -1,0 +1,8 @@
+C:\Users\blagi\source\repos\tutor\Core\MyLib\bin\Debug\netcoreapp3.1\MyLib.deps.json
+C:\Users\blagi\source\repos\tutor\Core\MyLib\bin\Debug\netcoreapp3.1\MyLib.dll
+C:\Users\blagi\source\repos\tutor\Core\MyLib\bin\Debug\netcoreapp3.1\MyLib.pdb
+C:\Users\blagi\source\repos\tutor\Core\MyLib\obj\Debug\netcoreapp3.1\MyLib.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\MyLib\obj\Debug\netcoreapp3.1\MyLib.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\MyLib\obj\Debug\netcoreapp3.1\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\MyLib\obj\Debug\netcoreapp3.1\MyLib.dll
+C:\Users\blagi\source\repos\tutor\Core\MyLib\obj\Debug\netcoreapp3.1\MyLib.pdb

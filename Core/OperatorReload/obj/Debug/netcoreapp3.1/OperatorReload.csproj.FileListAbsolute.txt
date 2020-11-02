@@ -1,0 +1,13 @@
+C:\Users\blagi\source\repos\tutor\Core\OperatorReload\bin\Debug\netcoreapp3.1\OperatorReload.exe
+C:\Users\blagi\source\repos\tutor\Core\OperatorReload\bin\Debug\netcoreapp3.1\OperatorReload.deps.json
+C:\Users\blagi\source\repos\tutor\Core\OperatorReload\bin\Debug\netcoreapp3.1\OperatorReload.runtimeconfig.json
+C:\Users\blagi\source\repos\tutor\Core\OperatorReload\bin\Debug\netcoreapp3.1\OperatorReload.runtimeconfig.dev.json
+C:\Users\blagi\source\repos\tutor\Core\OperatorReload\bin\Debug\netcoreapp3.1\OperatorReload.dll
+C:\Users\blagi\source\repos\tutor\Core\OperatorReload\bin\Debug\netcoreapp3.1\OperatorReload.pdb
+C:\Users\blagi\source\repos\tutor\Core\OperatorReload\obj\Debug\netcoreapp3.1\OperatorReload.csprojAssemblyReference.cache
+C:\Users\blagi\source\repos\tutor\Core\OperatorReload\obj\Debug\netcoreapp3.1\OperatorReload.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\OperatorReload\obj\Debug\netcoreapp3.1\OperatorReload.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\OperatorReload\obj\Debug\netcoreapp3.1\OperatorReload.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\OperatorReload\obj\Debug\netcoreapp3.1\OperatorReload.dll
+C:\Users\blagi\source\repos\tutor\Core\OperatorReload\obj\Debug\netcoreapp3.1\OperatorReload.pdb
+C:\Users\blagi\source\repos\tutor\Core\OperatorReload\obj\Debug\netcoreapp3.1\OperatorReload.genruntimeconfig.cache

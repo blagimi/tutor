@@ -1,0 +1,12 @@
+C:\Users\blagi\source\repos\tutor\Core\Structur\bin\Debug\netcoreapp3.1\Structur.exe
+C:\Users\blagi\source\repos\tutor\Core\Structur\bin\Debug\netcoreapp3.1\Structur.deps.json
+C:\Users\blagi\source\repos\tutor\Core\Structur\bin\Debug\netcoreapp3.1\Structur.runtimeconfig.json
+C:\Users\blagi\source\repos\tutor\Core\Structur\bin\Debug\netcoreapp3.1\Structur.runtimeconfig.dev.json
+C:\Users\blagi\source\repos\tutor\Core\Structur\bin\Debug\netcoreapp3.1\Structur.dll
+C:\Users\blagi\source\repos\tutor\Core\Structur\bin\Debug\netcoreapp3.1\Structur.pdb
+C:\Users\blagi\source\repos\tutor\Core\Structur\obj\Debug\netcoreapp3.1\Structur.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\Structur\obj\Debug\netcoreapp3.1\Structur.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\Structur\obj\Debug\netcoreapp3.1\Structur.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\Structur\obj\Debug\netcoreapp3.1\Structur.dll
+C:\Users\blagi\source\repos\tutor\Core\Structur\obj\Debug\netcoreapp3.1\Structur.pdb
+C:\Users\blagi\source\repos\tutor\Core\Structur\obj\Debug\netcoreapp3.1\Structur.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\blagi\source\repos\tutor\Core\ConstReadOnly\bin\Debug\netcoreapp3.1\ConstReadOnly.exe
+C:\Users\blagi\source\repos\tutor\Core\ConstReadOnly\bin\Debug\netcoreapp3.1\ConstReadOnly.deps.json
+C:\Users\blagi\source\repos\tutor\Core\ConstReadOnly\bin\Debug\netcoreapp3.1\ConstReadOnly.runtimeconfig.json
+C:\Users\blagi\source\repos\tutor\Core\ConstReadOnly\bin\Debug\netcoreapp3.1\ConstReadOnly.runtimeconfig.dev.json
+C:\Users\blagi\source\repos\tutor\Core\ConstReadOnly\bin\Debug\netcoreapp3.1\ConstReadOnly.dll
+C:\Users\blagi\source\repos\tutor\Core\ConstReadOnly\bin\Debug\netcoreapp3.1\ConstReadOnly.pdb
+C:\Users\blagi\source\repos\tutor\Core\ConstReadOnly\obj\Debug\netcoreapp3.1\ConstReadOnly.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\ConstReadOnly\obj\Debug\netcoreapp3.1\ConstReadOnly.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\ConstReadOnly\obj\Debug\netcoreapp3.1\ConstReadOnly.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\ConstReadOnly\obj\Debug\netcoreapp3.1\ConstReadOnly.dll
+C:\Users\blagi\source\repos\tutor\Core\ConstReadOnly\obj\Debug\netcoreapp3.1\ConstReadOnly.pdb
+C:\Users\blagi\source\repos\tutor\Core\ConstReadOnly\obj\Debug\netcoreapp3.1\ConstReadOnly.genruntimeconfig.cache

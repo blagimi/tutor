@@ -1,0 +1,16 @@
+C:\Users\blagi\Source\Repos\tutor\Core\ModificatoriDostupa\bin\Debug\netcoreapp3.1\ModificatoriDostupa.exe
+C:\Users\blagi\Source\Repos\tutor\Core\ModificatoriDostupa\bin\Debug\netcoreapp3.1\ModificatoriDostupa.deps.json
+C:\Users\blagi\Source\Repos\tutor\Core\ModificatoriDostupa\bin\Debug\netcoreapp3.1\ModificatoriDostupa.runtimeconfig.json
+C:\Users\blagi\Source\Repos\tutor\Core\ModificatoriDostupa\bin\Debug\netcoreapp3.1\ModificatoriDostupa.runtimeconfig.dev.json
+C:\Users\blagi\Source\Repos\tutor\Core\ModificatoriDostupa\bin\Debug\netcoreapp3.1\ModificatoriDostupa.dll
+C:\Users\blagi\Source\Repos\tutor\Core\ModificatoriDostupa\bin\Debug\netcoreapp3.1\ModificatoriDostupa.pdb
+C:\Users\blagi\Source\Repos\tutor\Core\ModificatoriDostupa\bin\Debug\netcoreapp3.1\MyLib.dll
+C:\Users\blagi\Source\Repos\tutor\Core\ModificatoriDostupa\bin\Debug\netcoreapp3.1\MyLib.pdb
+C:\Users\blagi\Source\Repos\tutor\Core\ModificatoriDostupa\obj\Debug\netcoreapp3.1\ModificatoriDostupa.csprojAssemblyReference.cache
+C:\Users\blagi\Source\Repos\tutor\Core\ModificatoriDostupa\obj\Debug\netcoreapp3.1\ModificatoriDostupa.AssemblyInfoInputs.cache
+C:\Users\blagi\Source\Repos\tutor\Core\ModificatoriDostupa\obj\Debug\netcoreapp3.1\ModificatoriDostupa.AssemblyInfo.cs
+C:\Users\blagi\Source\Repos\tutor\Core\ModificatoriDostupa\obj\Debug\netcoreapp3.1\ModificatoriDostupa.csproj.CoreCompileInputs.cache
+C:\Users\blagi\Source\Repos\tutor\Core\ModificatoriDostupa\obj\Debug\netcoreapp3.1\ModificatoriDostupa.csproj.CopyComplete
+C:\Users\blagi\Source\Repos\tutor\Core\ModificatoriDostupa\obj\Debug\netcoreapp3.1\ModificatoriDostupa.dll
+C:\Users\blagi\Source\Repos\tutor\Core\ModificatoriDostupa\obj\Debug\netcoreapp3.1\ModificatoriDostupa.pdb
+C:\Users\blagi\Source\Repos\tutor\Core\ModificatoriDostupa\obj\Debug\netcoreapp3.1\ModificatoriDostupa.genruntimeconfig.cache
