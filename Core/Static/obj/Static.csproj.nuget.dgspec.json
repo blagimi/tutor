@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Static\\Static.csproj": {}
+    "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Static\\Static.csproj": {}
   },
   "projects": {
-    "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Static\\Static.csproj": {
+    "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Static\\Static.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Static\\Static.csproj",
+        "projectUniqueName": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Static\\Static.csproj",
         "projectName": "Static",
-        "projectPath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Static\\Static.csproj",
+        "projectPath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Static\\Static.csproj",
         "packagesPath": "C:\\Users\\blagi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Static\\obj\\",
+        "outputPath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Static\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\blagi\\AppData\\Roaming\\NuGet\\NuGet.Config",

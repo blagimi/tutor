@@ -1,0 +1,12 @@
+C:\Users\blagi\source\repos\tutor\Core\VoshodyashieNizhodyshiePreobrazovania\bin\Debug\netcoreapp3.1\VoshodyashieNizhodyshiePreobrazovania.exe
+C:\Users\blagi\source\repos\tutor\Core\VoshodyashieNizhodyshiePreobrazovania\bin\Debug\netcoreapp3.1\VoshodyashieNizhodyshiePreobrazovania.deps.json
+C:\Users\blagi\source\repos\tutor\Core\VoshodyashieNizhodyshiePreobrazovania\bin\Debug\netcoreapp3.1\VoshodyashieNizhodyshiePreobrazovania.runtimeconfig.json
+C:\Users\blagi\source\repos\tutor\Core\VoshodyashieNizhodyshiePreobrazovania\bin\Debug\netcoreapp3.1\VoshodyashieNizhodyshiePreobrazovania.runtimeconfig.dev.json
+C:\Users\blagi\source\repos\tutor\Core\VoshodyashieNizhodyshiePreobrazovania\bin\Debug\netcoreapp3.1\VoshodyashieNizhodyshiePreobrazovania.dll
+C:\Users\blagi\source\repos\tutor\Core\VoshodyashieNizhodyshiePreobrazovania\bin\Debug\netcoreapp3.1\VoshodyashieNizhodyshiePreobrazovania.pdb
+C:\Users\blagi\source\repos\tutor\Core\VoshodyashieNizhodyshiePreobrazovania\obj\Debug\netcoreapp3.1\VoshodyashieNizhodyshiePreobrazovania.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\VoshodyashieNizhodyshiePreobrazovania\obj\Debug\netcoreapp3.1\VoshodyashieNizhodyshiePreobrazovania.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\VoshodyashieNizhodyshiePreobrazovania\obj\Debug\netcoreapp3.1\VoshodyashieNizhodyshiePreobrazovania.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\VoshodyashieNizhodyshiePreobrazovania\obj\Debug\netcoreapp3.1\VoshodyashieNizhodyshiePreobrazovania.dll
+C:\Users\blagi\source\repos\tutor\Core\VoshodyashieNizhodyshiePreobrazovania\obj\Debug\netcoreapp3.1\VoshodyashieNizhodyshiePreobrazovania.pdb
+C:\Users\blagi\source\repos\tutor\Core\VoshodyashieNizhodyshiePreobrazovania\obj\Debug\netcoreapp3.1\VoshodyashieNizhodyshiePreobrazovania.genruntimeconfig.cache

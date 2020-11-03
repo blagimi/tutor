@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\ConstReadOnly\\ConstReadOnly.csproj": {}
+    "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\ConstReadOnly\\ConstReadOnly.csproj": {}
   },
   "projects": {
-    "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\ConstReadOnly\\ConstReadOnly.csproj": {
+    "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\ConstReadOnly\\ConstReadOnly.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\ConstReadOnly\\ConstReadOnly.csproj",
+        "projectUniqueName": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\ConstReadOnly\\ConstReadOnly.csproj",
         "projectName": "ConstReadOnly",
-        "projectPath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\ConstReadOnly\\ConstReadOnly.csproj",
+        "projectPath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\ConstReadOnly\\ConstReadOnly.csproj",
         "packagesPath": "C:\\Users\\blagi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\ConstReadOnly\\obj\\",
+        "outputPath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\ConstReadOnly\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\blagi\\AppData\\Roaming\\NuGet\\NuGet.Config",

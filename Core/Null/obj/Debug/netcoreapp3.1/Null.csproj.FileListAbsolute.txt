@@ -1,0 +1,12 @@
+C:\Users\blagi\source\repos\tutor\Core\Null\bin\Debug\netcoreapp3.1\Null.exe
+C:\Users\blagi\source\repos\tutor\Core\Null\bin\Debug\netcoreapp3.1\Null.deps.json
+C:\Users\blagi\source\repos\tutor\Core\Null\bin\Debug\netcoreapp3.1\Null.runtimeconfig.json
+C:\Users\blagi\source\repos\tutor\Core\Null\bin\Debug\netcoreapp3.1\Null.runtimeconfig.dev.json
+C:\Users\blagi\source\repos\tutor\Core\Null\bin\Debug\netcoreapp3.1\Null.dll
+C:\Users\blagi\source\repos\tutor\Core\Null\bin\Debug\netcoreapp3.1\Null.pdb
+C:\Users\blagi\source\repos\tutor\Core\Null\obj\Debug\netcoreapp3.1\Null.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\Null\obj\Debug\netcoreapp3.1\Null.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\Null\obj\Debug\netcoreapp3.1\Null.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\Null\obj\Debug\netcoreapp3.1\Null.dll
+C:\Users\blagi\source\repos\tutor\Core\Null\obj\Debug\netcoreapp3.1\Null.pdb
+C:\Users\blagi\source\repos\tutor\Core\Null\obj\Debug\netcoreapp3.1\Null.genruntimeconfig.cache

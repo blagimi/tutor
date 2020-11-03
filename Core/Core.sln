@@ -41,13 +41,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyLib", "MyLib\MyLib.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModificatoriDostupa", "ModificatoriDostupa\ModificatoriDostupa.csproj", "{F242464A-546A-42F2-81EA-D216A6723355}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Svoistva", "Svoistva\Svoistva.csproj", "{6A6842C0-12FE-4DBA-BC66-601083C67B5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Svoistva", "Svoistva\Svoistva.csproj", "{6A6842C0-12FE-4DBA-BC66-601083C67B5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static", "Static\Static.csproj", "{5B71F040-0CB7-40C4-83C4-5D2D5E2AD4F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Static", "Static\Static.csproj", "{5B71F040-0CB7-40C4-83C4-5D2D5E2AD4F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstReadOnly", "ConstReadOnly\ConstReadOnly.csproj", "{F9FE5E81-53CF-4328-A802-FAD03FB4C467}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstReadOnly", "ConstReadOnly\ConstReadOnly.csproj", "{F9FE5E81-53CF-4328-A802-FAD03FB4C467}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorReload", "OperatorReload\OperatorReload.csproj", "{C2512D56-7373-42E2-9E6A-B261B0E538CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperatorReload", "OperatorReload\OperatorReload.csproj", "{C2512D56-7373-42E2-9E6A-B261B0E538CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Null", "Null\Null.csproj", "{E85F1D4E-C348-4082-ACD2-C092526AFF14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indeksatori", "Indeksatori\Indeksatori.csproj", "{5E675C3C-F758-440E-BA0D-DF17AADF78B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nasledovanie", "Nasledovanie\Nasledovanie.csproj", "{347C0246-74EB-4C67-B422-5906C208F828}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoshodyashieNizhodyshiePreobrazovania", "VoshodyashieNizhodyshiePreobrazovania\VoshodyashieNizhodyshiePreobrazovania.csproj", "{4638D98A-F0BF-46CC-A7F6-C3A895478C3D}"
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
@@ -146,6 +154,22 @@ Global
 		{C2512D56-7373-42E2-9E6A-B261B0E538CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2512D56-7373-42E2-9E6A-B261B0E538CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2512D56-7373-42E2-9E6A-B261B0E538CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E85F1D4E-C348-4082-ACD2-C092526AFF14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E85F1D4E-C348-4082-ACD2-C092526AFF14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E85F1D4E-C348-4082-ACD2-C092526AFF14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E85F1D4E-C348-4082-ACD2-C092526AFF14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E675C3C-F758-440E-BA0D-DF17AADF78B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E675C3C-F758-440E-BA0D-DF17AADF78B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E675C3C-F758-440E-BA0D-DF17AADF78B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E675C3C-F758-440E-BA0D-DF17AADF78B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{347C0246-74EB-4C67-B422-5906C208F828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{347C0246-74EB-4C67-B422-5906C208F828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{347C0246-74EB-4C67-B422-5906C208F828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{347C0246-74EB-4C67-B422-5906C208F828}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4638D98A-F0BF-46CC-A7F6-C3A895478C3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4638D98A-F0BF-46CC-A7F6-C3A895478C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4638D98A-F0BF-46CC-A7F6-C3A895478C3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4638D98A-F0BF-46CC-A7F6-C3A895478C3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

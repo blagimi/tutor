@@ -1,0 +1,13 @@
+C:\Users\blagi\source\repos\tutor\Core\Indeksatori\bin\Debug\netcoreapp3.1\Indeksatori.exe
+C:\Users\blagi\source\repos\tutor\Core\Indeksatori\bin\Debug\netcoreapp3.1\Indeksatori.deps.json
+C:\Users\blagi\source\repos\tutor\Core\Indeksatori\bin\Debug\netcoreapp3.1\Indeksatori.runtimeconfig.json
+C:\Users\blagi\source\repos\tutor\Core\Indeksatori\bin\Debug\netcoreapp3.1\Indeksatori.runtimeconfig.dev.json
+C:\Users\blagi\source\repos\tutor\Core\Indeksatori\bin\Debug\netcoreapp3.1\Indeksatori.dll
+C:\Users\blagi\source\repos\tutor\Core\Indeksatori\bin\Debug\netcoreapp3.1\Indeksatori.pdb
+C:\Users\blagi\source\repos\tutor\Core\Indeksatori\obj\Debug\netcoreapp3.1\Indeksatori.csprojAssemblyReference.cache
+C:\Users\blagi\source\repos\tutor\Core\Indeksatori\obj\Debug\netcoreapp3.1\Indeksatori.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\Indeksatori\obj\Debug\netcoreapp3.1\Indeksatori.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\Indeksatori\obj\Debug\netcoreapp3.1\Indeksatori.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\Indeksatori\obj\Debug\netcoreapp3.1\Indeksatori.dll
+C:\Users\blagi\source\repos\tutor\Core\Indeksatori\obj\Debug\netcoreapp3.1\Indeksatori.pdb
+C:\Users\blagi\source\repos\tutor\Core\Indeksatori\obj\Debug\netcoreapp3.1\Indeksatori.genruntimeconfig.cache
