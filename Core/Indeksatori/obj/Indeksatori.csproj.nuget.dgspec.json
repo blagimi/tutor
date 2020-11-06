@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Indeksatori\\Indeksatori.csproj": {}
+    "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Indeksatori\\Indeksatori.csproj": {}
   },
   "projects": {
-    "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Indeksatori\\Indeksatori.csproj": {
+    "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Indeksatori\\Indeksatori.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Indeksatori\\Indeksatori.csproj",
+        "projectUniqueName": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Indeksatori\\Indeksatori.csproj",
         "projectName": "Indeksatori",
-        "projectPath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Indeksatori\\Indeksatori.csproj",
+        "projectPath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Indeksatori\\Indeksatori.csproj",
         "packagesPath": "C:\\Users\\blagi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Indeksatori\\obj\\",
+        "outputPath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Indeksatori\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\blagi\\AppData\\Roaming\\NuGet\\NuGet.Config",

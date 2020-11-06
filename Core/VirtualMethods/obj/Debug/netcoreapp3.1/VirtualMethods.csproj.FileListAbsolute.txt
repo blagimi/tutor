@@ -1,0 +1,12 @@
+C:\Users\blagi\source\repos\tutor\Core\VirtualMethods\bin\Debug\netcoreapp3.1\VirtualMethods.exe
+C:\Users\blagi\source\repos\tutor\Core\VirtualMethods\bin\Debug\netcoreapp3.1\VirtualMethods.deps.json
+C:\Users\blagi\source\repos\tutor\Core\VirtualMethods\bin\Debug\netcoreapp3.1\VirtualMethods.runtimeconfig.json
+C:\Users\blagi\source\repos\tutor\Core\VirtualMethods\bin\Debug\netcoreapp3.1\VirtualMethods.runtimeconfig.dev.json
+C:\Users\blagi\source\repos\tutor\Core\VirtualMethods\bin\Debug\netcoreapp3.1\VirtualMethods.dll
+C:\Users\blagi\source\repos\tutor\Core\VirtualMethods\bin\Debug\netcoreapp3.1\VirtualMethods.pdb
+C:\Users\blagi\source\repos\tutor\Core\VirtualMethods\obj\Debug\netcoreapp3.1\VirtualMethods.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\VirtualMethods\obj\Debug\netcoreapp3.1\VirtualMethods.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\VirtualMethods\obj\Debug\netcoreapp3.1\VirtualMethods.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\VirtualMethods\obj\Debug\netcoreapp3.1\VirtualMethods.dll
+C:\Users\blagi\source\repos\tutor\Core\VirtualMethods\obj\Debug\netcoreapp3.1\VirtualMethods.pdb
+C:\Users\blagi\source\repos\tutor\Core\VirtualMethods\obj\Debug\netcoreapp3.1\VirtualMethods.genruntimeconfig.cache

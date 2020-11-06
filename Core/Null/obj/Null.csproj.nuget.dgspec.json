@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Null\\Null.csproj": {}
+    "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Null\\Null.csproj": {}
   },
   "projects": {
-    "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Null\\Null.csproj": {
+    "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Null\\Null.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Null\\Null.csproj",
+        "projectUniqueName": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Null\\Null.csproj",
         "projectName": "Null",
-        "projectPath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Null\\Null.csproj",
+        "projectPath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Null\\Null.csproj",
         "packagesPath": "C:\\Users\\blagi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Null\\obj\\",
+        "outputPath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Null\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\blagi\\AppData\\Roaming\\NuGet\\NuGet.Config",

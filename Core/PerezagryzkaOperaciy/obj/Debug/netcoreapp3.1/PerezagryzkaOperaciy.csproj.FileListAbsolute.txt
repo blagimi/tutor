@@ -1,0 +1,13 @@
+C:\Users\blagi\source\repos\tutor\Core\PerezagryzkaOperaciy\bin\Debug\netcoreapp3.1\PerezagryzkaOperaciy.exe
+C:\Users\blagi\source\repos\tutor\Core\PerezagryzkaOperaciy\bin\Debug\netcoreapp3.1\PerezagryzkaOperaciy.deps.json
+C:\Users\blagi\source\repos\tutor\Core\PerezagryzkaOperaciy\bin\Debug\netcoreapp3.1\PerezagryzkaOperaciy.runtimeconfig.json
+C:\Users\blagi\source\repos\tutor\Core\PerezagryzkaOperaciy\bin\Debug\netcoreapp3.1\PerezagryzkaOperaciy.runtimeconfig.dev.json
+C:\Users\blagi\source\repos\tutor\Core\PerezagryzkaOperaciy\bin\Debug\netcoreapp3.1\PerezagryzkaOperaciy.dll
+C:\Users\blagi\source\repos\tutor\Core\PerezagryzkaOperaciy\bin\Debug\netcoreapp3.1\PerezagryzkaOperaciy.pdb
+C:\Users\blagi\source\repos\tutor\Core\PerezagryzkaOperaciy\obj\Debug\netcoreapp3.1\PerezagryzkaOperaciy.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\PerezagryzkaOperaciy\obj\Debug\netcoreapp3.1\PerezagryzkaOperaciy.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\PerezagryzkaOperaciy\obj\Debug\netcoreapp3.1\PerezagryzkaOperaciy.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\PerezagryzkaOperaciy\obj\Debug\netcoreapp3.1\PerezagryzkaOperaciy.dll
+C:\Users\blagi\source\repos\tutor\Core\PerezagryzkaOperaciy\obj\Debug\netcoreapp3.1\PerezagryzkaOperaciy.pdb
+C:\Users\blagi\source\repos\tutor\Core\PerezagryzkaOperaciy\obj\Debug\netcoreapp3.1\PerezagryzkaOperaciy.genruntimeconfig.cache
+C:\Users\blagi\source\repos\tutor\Core\PerezagryzkaOperaciy\obj\Debug\netcoreapp3.1\PerezagryzkaOperaciy.csprojAssemblyReference.cache

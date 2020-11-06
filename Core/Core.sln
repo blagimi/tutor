@@ -49,13 +49,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstReadOnly", "ConstReadO
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperatorReload", "OperatorReload\OperatorReload.csproj", "{C2512D56-7373-42E2-9E6A-B261B0E538CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Null", "Null\Null.csproj", "{E85F1D4E-C348-4082-ACD2-C092526AFF14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Null", "Null\Null.csproj", "{E85F1D4E-C348-4082-ACD2-C092526AFF14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indeksatori", "Indeksatori\Indeksatori.csproj", "{5E675C3C-F758-440E-BA0D-DF17AADF78B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Indeksatori", "Indeksatori\Indeksatori.csproj", "{5E675C3C-F758-440E-BA0D-DF17AADF78B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nasledovanie", "Nasledovanie\Nasledovanie.csproj", "{347C0246-74EB-4C67-B422-5906C208F828}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nasledovanie", "Nasledovanie\Nasledovanie.csproj", "{347C0246-74EB-4C67-B422-5906C208F828}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoshodyashieNizhodyshiePreobrazovania", "VoshodyashieNizhodyshiePreobrazovania\VoshodyashieNizhodyshiePreobrazovania.csproj", "{4638D98A-F0BF-46CC-A7F6-C3A895478C3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VoshodyashieNizhodyshiePreobrazovania", "VoshodyashieNizhodyshiePreobrazovania\VoshodyashieNizhodyshiePreobrazovania.csproj", "{4638D98A-F0BF-46CC-A7F6-C3A895478C3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerezagryzkaOperaciy", "PerezagryzkaOperaciy\PerezagryzkaOperaciy.csproj", "{859A52A6-7C2D-460E-83F6-535B6BDE7D44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualMethods", "VirtualMethods\VirtualMethods.csproj", "{2A2FD28A-4C73-46CC-A40B-E73DDE47726F}"
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
@@ -170,6 +174,14 @@ Global
 		{4638D98A-F0BF-46CC-A7F6-C3A895478C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4638D98A-F0BF-46CC-A7F6-C3A895478C3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4638D98A-F0BF-46CC-A7F6-C3A895478C3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{859A52A6-7C2D-460E-83F6-535B6BDE7D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{859A52A6-7C2D-460E-83F6-535B6BDE7D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{859A52A6-7C2D-460E-83F6-535B6BDE7D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{859A52A6-7C2D-460E-83F6-535B6BDE7D44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A2FD28A-4C73-46CC-A40B-E73DDE47726F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A2FD28A-4C73-46CC-A40B-E73DDE47726F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A2FD28A-4C73-46CC-A40B-E73DDE47726F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A2FD28A-4C73-46CC-A40B-E73DDE47726F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
