@@ -47,7 +47,7 @@ namespace Massive
             }
             Console.WriteLine();
             /* Двумерные массивы same */
-            int[,] numbs1;
+            //int[,] numbs1;
             int[,] numbs2 = new int[2, 3];
             int[,] numbs3 = new int[2, 3] { { 0, 1, 2 }, { 3, 4, 5 } };
             int[,] numbs4 = new int[,] { { 0, 1, 2 }, { 3, 4, 5 } };

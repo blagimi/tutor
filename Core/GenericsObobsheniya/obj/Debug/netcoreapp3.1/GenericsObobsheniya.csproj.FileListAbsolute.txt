@@ -1,0 +1,13 @@
+C:\Users\blagi\source\repos\tutor\Core\GenericsObobsheniya\bin\Debug\netcoreapp3.1\GenericsObobsheniya.exe
+C:\Users\blagi\source\repos\tutor\Core\GenericsObobsheniya\bin\Debug\netcoreapp3.1\GenericsObobsheniya.deps.json
+C:\Users\blagi\source\repos\tutor\Core\GenericsObobsheniya\bin\Debug\netcoreapp3.1\GenericsObobsheniya.runtimeconfig.json
+C:\Users\blagi\source\repos\tutor\Core\GenericsObobsheniya\bin\Debug\netcoreapp3.1\GenericsObobsheniya.runtimeconfig.dev.json
+C:\Users\blagi\source\repos\tutor\Core\GenericsObobsheniya\bin\Debug\netcoreapp3.1\GenericsObobsheniya.dll
+C:\Users\blagi\source\repos\tutor\Core\GenericsObobsheniya\bin\Debug\netcoreapp3.1\GenericsObobsheniya.pdb
+C:\Users\blagi\source\repos\tutor\Core\GenericsObobsheniya\obj\Debug\netcoreapp3.1\GenericsObobsheniya.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\GenericsObobsheniya\obj\Debug\netcoreapp3.1\GenericsObobsheniya.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\GenericsObobsheniya\obj\Debug\netcoreapp3.1\GenericsObobsheniya.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\GenericsObobsheniya\obj\Debug\netcoreapp3.1\GenericsObobsheniya.dll
+C:\Users\blagi\source\repos\tutor\Core\GenericsObobsheniya\obj\Debug\netcoreapp3.1\GenericsObobsheniya.pdb
+C:\Users\blagi\source\repos\tutor\Core\GenericsObobsheniya\obj\Debug\netcoreapp3.1\GenericsObobsheniya.genruntimeconfig.cache
+C:\Users\blagi\source\repos\tutor\Core\GenericsObobsheniya\obj\Debug\netcoreapp3.1\GenericsObobsheniya.csprojAssemblyReference.cache

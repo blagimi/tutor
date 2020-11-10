@@ -1,0 +1,12 @@
+C:\Users\blagi\source\repos\tutor\Core\SystemObjectMethods\bin\Debug\netcoreapp3.1\SystemObjectMethods.exe
+C:\Users\blagi\source\repos\tutor\Core\SystemObjectMethods\bin\Debug\netcoreapp3.1\SystemObjectMethods.deps.json
+C:\Users\blagi\source\repos\tutor\Core\SystemObjectMethods\bin\Debug\netcoreapp3.1\SystemObjectMethods.runtimeconfig.json
+C:\Users\blagi\source\repos\tutor\Core\SystemObjectMethods\bin\Debug\netcoreapp3.1\SystemObjectMethods.runtimeconfig.dev.json
+C:\Users\blagi\source\repos\tutor\Core\SystemObjectMethods\bin\Debug\netcoreapp3.1\SystemObjectMethods.dll
+C:\Users\blagi\source\repos\tutor\Core\SystemObjectMethods\bin\Debug\netcoreapp3.1\SystemObjectMethods.pdb
+C:\Users\blagi\source\repos\tutor\Core\SystemObjectMethods\obj\Debug\netcoreapp3.1\SystemObjectMethods.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\SystemObjectMethods\obj\Debug\netcoreapp3.1\SystemObjectMethods.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\SystemObjectMethods\obj\Debug\netcoreapp3.1\SystemObjectMethods.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\SystemObjectMethods\obj\Debug\netcoreapp3.1\SystemObjectMethods.dll
+C:\Users\blagi\source\repos\tutor\Core\SystemObjectMethods\obj\Debug\netcoreapp3.1\SystemObjectMethods.pdb
+C:\Users\blagi\source\repos\tutor\Core\SystemObjectMethods\obj\Debug\netcoreapp3.1\SystemObjectMethods.genruntimeconfig.cache

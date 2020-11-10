@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\VirtualMethods\\VirtualMethods.csproj": {}
+    "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\VirtualMethods\\VirtualMethods.csproj": {}
   },
   "projects": {
-    "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\VirtualMethods\\VirtualMethods.csproj": {
+    "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\VirtualMethods\\VirtualMethods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\VirtualMethods\\VirtualMethods.csproj",
+        "projectUniqueName": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\VirtualMethods\\VirtualMethods.csproj",
         "projectName": "VirtualMethods",
-        "projectPath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\VirtualMethods\\VirtualMethods.csproj",
+        "projectPath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\VirtualMethods\\VirtualMethods.csproj",
         "packagesPath": "C:\\Users\\blagi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\VirtualMethods\\obj\\",
+        "outputPath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\VirtualMethods\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\blagi\\AppData\\Roaming\\NuGet\\NuGet.Config",
