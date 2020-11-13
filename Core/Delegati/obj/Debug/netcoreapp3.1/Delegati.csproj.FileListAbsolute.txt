@@ -1,0 +1,13 @@
+C:\Users\blagi\Source\Repos\tutor\Core\Delegati\bin\Debug\netcoreapp3.1\Delegati.exe
+C:\Users\blagi\Source\Repos\tutor\Core\Delegati\bin\Debug\netcoreapp3.1\Delegati.deps.json
+C:\Users\blagi\Source\Repos\tutor\Core\Delegati\bin\Debug\netcoreapp3.1\Delegati.runtimeconfig.json
+C:\Users\blagi\Source\Repos\tutor\Core\Delegati\bin\Debug\netcoreapp3.1\Delegati.runtimeconfig.dev.json
+C:\Users\blagi\Source\Repos\tutor\Core\Delegati\bin\Debug\netcoreapp3.1\Delegati.dll
+C:\Users\blagi\Source\Repos\tutor\Core\Delegati\bin\Debug\netcoreapp3.1\Delegati.pdb
+C:\Users\blagi\Source\Repos\tutor\Core\Delegati\obj\Debug\netcoreapp3.1\Delegati.csprojAssemblyReference.cache
+C:\Users\blagi\Source\Repos\tutor\Core\Delegati\obj\Debug\netcoreapp3.1\Delegati.AssemblyInfoInputs.cache
+C:\Users\blagi\Source\Repos\tutor\Core\Delegati\obj\Debug\netcoreapp3.1\Delegati.AssemblyInfo.cs
+C:\Users\blagi\Source\Repos\tutor\Core\Delegati\obj\Debug\netcoreapp3.1\Delegati.csproj.CoreCompileInputs.cache
+C:\Users\blagi\Source\Repos\tutor\Core\Delegati\obj\Debug\netcoreapp3.1\Delegati.dll
+C:\Users\blagi\Source\Repos\tutor\Core\Delegati\obj\Debug\netcoreapp3.1\Delegati.pdb
+C:\Users\blagi\Source\Repos\tutor\Core\Delegati\obj\Debug\netcoreapp3.1\Delegati.genruntimeconfig.cache

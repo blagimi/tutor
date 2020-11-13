@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Null\\Null.csproj",
+      "projectUniqueName": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Null\\Null.csproj",
       "projectName": "Null",
-      "projectPath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Null\\Null.csproj",
+      "projectPath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Null\\Null.csproj",
       "packagesPath": "C:\\Users\\blagi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Null\\obj\\",
+      "outputPath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Null\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\blagi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -32,6 +32,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -43,6 +44,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

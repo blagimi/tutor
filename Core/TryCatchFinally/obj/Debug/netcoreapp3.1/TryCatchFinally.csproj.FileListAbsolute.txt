@@ -1,0 +1,13 @@
+C:\Users\blagi\source\repos\tutor\Core\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.exe
+C:\Users\blagi\source\repos\tutor\Core\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.deps.json
+C:\Users\blagi\source\repos\tutor\Core\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.runtimeconfig.json
+C:\Users\blagi\source\repos\tutor\Core\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.runtimeconfig.dev.json
+C:\Users\blagi\source\repos\tutor\Core\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.dll
+C:\Users\blagi\source\repos\tutor\Core\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.pdb
+C:\Users\blagi\source\repos\tutor\Core\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.csprojAssemblyReference.cache
+C:\Users\blagi\source\repos\tutor\Core\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.dll
+C:\Users\blagi\source\repos\tutor\Core\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.pdb
+C:\Users\blagi\source\repos\tutor\Core\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.genruntimeconfig.cache
