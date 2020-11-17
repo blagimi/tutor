@@ -7,6 +7,7 @@ namespace Delegati
     class Program
     {
         delegate int Operation2(int x, int y);
+        delegate void MessageHandler(string message);
         static void Main()
         {
             /* Пример 1 */
@@ -69,6 +70,46 @@ namespace Delegati
             Message message5 = null;
             message5?.Invoke(); // При вызове делегата лучше проверять не равен ли он null не то исключение 
 
+            /* Пример 6
+             * Анонимный метод */
+            Console.WriteLine("Пример 6: ");
+
+            MessageHandler handler = delegate (string mes) // Создание анонимного метода delegate ключевое слово
+            {
+                Console.WriteLine(mes);
+            };
+            handler("Hello World");
+
+            ShowMessage("Hello",delegate(string mes)    // Другой пример анононимных методов - передача в качестве аргумента для параметра
+                {
+                Console.WriteLine(mes);
+            });
+
+            /* Если анонимный метод использует параметры, то они должны соответствовать параметрам делегата.
+             *  Если для анонимного метода не требуется параметров, то скобки с параметрами можно опустить
+             даже если делегет принимает несколько параметров исключение in out*/
+
+            MessageHandler handler1 = delegate
+            {
+                Console.WriteLine("Анонимный метод");
+            };
+            handler1("Hello world");
+            /* Так же как и обычное методы, анонимные могут возвращать результат */
+            Operation operation1 = delegate (int x, int y)
+            {
+                return x + y;
+            };
+            int d = operation1(4, 5);
+            Console.WriteLine(d);
+            /* При этом анонимный метод имеет доступ ко всем переменным, определенным во внешнем коде*/
+            int z = 8;
+            Operation operation4 = delegate (int x, int y)
+            {
+                return x + y + z;
+            };
+            int j = operation4(4, 5);
+            Console.WriteLine(j);   // 17
+
             /* Упражнение 1 */
 
             Console.WriteLine("Упражение 1: ");
@@ -90,6 +131,9 @@ namespace Delegati
             accout.UnregisterHandler(colorDelegate);   
             accout.withdraw(50);
         }
+
+        /* Упражнение 1*/
+
         private static void Show_Message(string message)
         {
             Console.WriteLine(message);
@@ -129,6 +173,12 @@ namespace Delegati
         private static void HowAreYou()
         {
             Console.WriteLine("How Are You?");
+        }
+
+        /* Пример 6 */
+        static void ShowMessage(string mes, MessageHandler handler)
+        {
+            handler(mes);
         }
 
         /* Упражнение */

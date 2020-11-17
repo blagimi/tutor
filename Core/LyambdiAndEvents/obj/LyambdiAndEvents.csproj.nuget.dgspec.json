@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\LyambdiAndEvents\\LyambdiAndEvents.csproj": {}
+    "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\LyambdiAndEvents\\LyambdiAndEvents.csproj": {}
   },
   "projects": {
-    "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\LyambdiAndEvents\\LyambdiAndEvents.csproj": {
+    "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\LyambdiAndEvents\\LyambdiAndEvents.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\LyambdiAndEvents\\LyambdiAndEvents.csproj",
+        "projectUniqueName": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\LyambdiAndEvents\\LyambdiAndEvents.csproj",
         "projectName": "LyambdiAndEvents",
-        "projectPath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\LyambdiAndEvents\\LyambdiAndEvents.csproj",
+        "projectPath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\LyambdiAndEvents\\LyambdiAndEvents.csproj",
         "packagesPath": "C:\\Users\\blagi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\LyambdiAndEvents\\obj\\",
+        "outputPath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\LyambdiAndEvents\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\blagi\\AppData\\Roaming\\NuGet\\NuGet.Config",
