@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Structur\\Structur.csproj": {}
+    "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Structur\\Structur.csproj": {}
   },
   "projects": {
-    "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Structur\\Structur.csproj": {
+    "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Structur\\Structur.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Structur\\Structur.csproj",
+        "projectUniqueName": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Structur\\Structur.csproj",
         "projectName": "Structur",
-        "projectPath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Structur\\Structur.csproj",
+        "projectPath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Structur\\Structur.csproj",
         "packagesPath": "C:\\Users\\blagi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Structur\\obj\\",
+        "outputPath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Structur\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\blagi\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\PerechisleniyaEnum\\PerechisleniyaEnum.csproj": {}
+    "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\PerechisleniyaEnum\\PerechisleniyaEnum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\PerechisleniyaEnum\\PerechisleniyaEnum.csproj": {
+    "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\PerechisleniyaEnum\\PerechisleniyaEnum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\PerechisleniyaEnum\\PerechisleniyaEnum.csproj",
+        "projectUniqueName": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\PerechisleniyaEnum\\PerechisleniyaEnum.csproj",
         "projectName": "PerechisleniyaEnum",
-        "projectPath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\PerechisleniyaEnum\\PerechisleniyaEnum.csproj",
+        "projectPath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\PerechisleniyaEnum\\PerechisleniyaEnum.csproj",
         "packagesPath": "C:\\Users\\blagi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\PerechisleniyaEnum\\obj\\",
+        "outputPath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\PerechisleniyaEnum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\blagi\\AppData\\Roaming\\NuGet\\NuGet.Config",

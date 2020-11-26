@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Nasledovanie\\Nasledovanie.csproj": {}
+    "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Nasledovanie\\Nasledovanie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Nasledovanie\\Nasledovanie.csproj": {
+    "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Nasledovanie\\Nasledovanie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Nasledovanie\\Nasledovanie.csproj",
+        "projectUniqueName": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Nasledovanie\\Nasledovanie.csproj",
         "projectName": "Nasledovanie",
-        "projectPath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Nasledovanie\\Nasledovanie.csproj",
+        "projectPath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Nasledovanie\\Nasledovanie.csproj",
         "packagesPath": "C:\\Users\\blagi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Nasledovanie\\obj\\",
+        "outputPath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Nasledovanie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\blagi\\AppData\\Roaming\\NuGet\\NuGet.Config",

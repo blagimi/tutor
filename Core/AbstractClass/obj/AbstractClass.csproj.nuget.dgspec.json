@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\AbstractClass\\AbstractClass.csproj": {}
+    "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\AbstractClass\\AbstractClass.csproj": {}
   },
   "projects": {
-    "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\AbstractClass\\AbstractClass.csproj": {
+    "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\AbstractClass\\AbstractClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\AbstractClass\\AbstractClass.csproj",
+        "projectUniqueName": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\AbstractClass\\AbstractClass.csproj",
         "projectName": "AbstractClass",
-        "projectPath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\AbstractClass\\AbstractClass.csproj",
+        "projectPath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\AbstractClass\\AbstractClass.csproj",
         "packagesPath": "C:\\Users\\blagi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\AbstractClass\\obj\\",
+        "outputPath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\AbstractClass\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\blagi\\AppData\\Roaming\\NuGet\\NuGet.Config",

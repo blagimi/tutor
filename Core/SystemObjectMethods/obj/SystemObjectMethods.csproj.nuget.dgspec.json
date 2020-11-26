@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\SystemObjectMethods\\SystemObjectMethods.csproj": {}
+    "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\SystemObjectMethods\\SystemObjectMethods.csproj": {}
   },
   "projects": {
-    "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\SystemObjectMethods\\SystemObjectMethods.csproj": {
+    "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\SystemObjectMethods\\SystemObjectMethods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\SystemObjectMethods\\SystemObjectMethods.csproj",
+        "projectUniqueName": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\SystemObjectMethods\\SystemObjectMethods.csproj",
         "projectName": "SystemObjectMethods",
-        "projectPath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\SystemObjectMethods\\SystemObjectMethods.csproj",
+        "projectPath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\SystemObjectMethods\\SystemObjectMethods.csproj",
         "packagesPath": "C:\\Users\\blagi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\SystemObjectMethods\\obj\\",
+        "outputPath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\SystemObjectMethods\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\blagi\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,12 @@
+C:\Users\blagi\source\repos\tutor\Core\DelegateKovariativnost\bin\Debug\netcoreapp3.1\DelegateKovariativnost.exe
+C:\Users\blagi\source\repos\tutor\Core\DelegateKovariativnost\bin\Debug\netcoreapp3.1\DelegateKovariativnost.deps.json
+C:\Users\blagi\source\repos\tutor\Core\DelegateKovariativnost\bin\Debug\netcoreapp3.1\DelegateKovariativnost.runtimeconfig.json
+C:\Users\blagi\source\repos\tutor\Core\DelegateKovariativnost\bin\Debug\netcoreapp3.1\DelegateKovariativnost.runtimeconfig.dev.json
+C:\Users\blagi\source\repos\tutor\Core\DelegateKovariativnost\bin\Debug\netcoreapp3.1\DelegateKovariativnost.dll
+C:\Users\blagi\source\repos\tutor\Core\DelegateKovariativnost\bin\Debug\netcoreapp3.1\DelegateKovariativnost.pdb
+C:\Users\blagi\source\repos\tutor\Core\DelegateKovariativnost\obj\Debug\netcoreapp3.1\DelegateKovariativnost.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\DelegateKovariativnost\obj\Debug\netcoreapp3.1\DelegateKovariativnost.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\DelegateKovariativnost\obj\Debug\netcoreapp3.1\DelegateKovariativnost.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\DelegateKovariativnost\obj\Debug\netcoreapp3.1\DelegateKovariativnost.dll
+C:\Users\blagi\source\repos\tutor\Core\DelegateKovariativnost\obj\Debug\netcoreapp3.1\DelegateKovariativnost.pdb
+C:\Users\blagi\source\repos\tutor\Core\DelegateKovariativnost\obj\Debug\netcoreapp3.1\DelegateKovariativnost.genruntimeconfig.cache

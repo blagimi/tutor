@@ -71,7 +71,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TryCatchFinally", "TryCatch
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegati", "Delegati\Delegati.csproj", "{8C20872D-8273-45F6-BB8F-790592CE07FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LyambdiAndEvents", "LyambdiAndEvents\LyambdiAndEvents.csproj", "{3006408C-ADC3-4D4B-A0CA-D622F838D94A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lyambdi", "LyambdiAndEvents\Lyambdi.csproj", "{3006408C-ADC3-4D4B-A0CA-D622F838D94A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Events", "Events\Events.csproj", "{C54BE7ED-B0DA-4CC4-85C7-258184C05601}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateKovariativnost", "DelegateKovariativnost\DelegateKovariativnost.csproj", "{46E10234-8FAC-424A-9624-5B0D7A9883C4}"
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
@@ -218,6 +222,14 @@ Global
 		{3006408C-ADC3-4D4B-A0CA-D622F838D94A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3006408C-ADC3-4D4B-A0CA-D622F838D94A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3006408C-ADC3-4D4B-A0CA-D622F838D94A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C54BE7ED-B0DA-4CC4-85C7-258184C05601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C54BE7ED-B0DA-4CC4-85C7-258184C05601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C54BE7ED-B0DA-4CC4-85C7-258184C05601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C54BE7ED-B0DA-4CC4-85C7-258184C05601}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46E10234-8FAC-424A-9624-5B0D7A9883C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46E10234-8FAC-424A-9624-5B0D7A9883C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46E10234-8FAC-424A-9624-5B0D7A9883C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46E10234-8FAC-424A-9624-5B0D7A9883C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

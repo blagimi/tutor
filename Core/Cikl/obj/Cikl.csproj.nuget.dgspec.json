@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Cikl\\Cikl.csproj": {}
+    "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Cikl\\Cikl.csproj": {}
   },
   "projects": {
-    "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Cikl\\Cikl.csproj": {
+    "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Cikl\\Cikl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Cikl\\Cikl.csproj",
+        "projectUniqueName": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Cikl\\Cikl.csproj",
         "projectName": "Cikl",
-        "projectPath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Cikl\\Cikl.csproj",
+        "projectPath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Cikl\\Cikl.csproj",
         "packagesPath": "C:\\Users\\blagi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Cikl\\obj\\",
+        "outputPath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Cikl\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\blagi\\AppData\\Roaming\\NuGet\\NuGet.Config",

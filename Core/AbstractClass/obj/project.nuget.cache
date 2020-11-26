@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BR3ATta823wMpWY2Gduh9i/BOgMEPDsUFcy8/h5MaMbzLM0BpsD4RtRUkzQQhMOYHNLSmcn1BN9GsIUA8eHrJg==",
+  "dgSpecHash": "V8mOUGDFQWq4+6uyO60LskeGboNnyBJDeUEA22oILt7SdDbAxzQjlB/B7HpvI1lPIyWRmeZCeHd38lmaiuJgXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\AbstractClass\\AbstractClass.csproj",
+  "projectFilePath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\AbstractClass\\AbstractClass.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

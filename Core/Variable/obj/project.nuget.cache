@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "63ZDYVmGB9y9ij2ZE7yfR/XgT21SqnMbU7Pk/FFLCCfAssfdgdFGu8i5Qkaunt5QJhakAT+7b9DFRy2FsPEHEQ==",
+  "dgSpecHash": "aq4roRfAJ2CMg65lnZA8R5mfQSarHC/tOffI1O6y5UyzfilMSUL8DRBij37Vvr654I9cdj+LBxw6uLIpXOYzBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Variable\\Variable.csproj",
+  "projectFilePath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Variable\\Variable.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

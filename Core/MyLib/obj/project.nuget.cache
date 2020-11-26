@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RkValyLuyMuFKdhlt2d9QYdMnWeiqenu0OpuDXUAStrFXUuRKoDRhdbaCCQn7bRLvDwPxAh0m1kCTSTxZkKLcA==",
+  "dgSpecHash": "CgyFbhk1F34j8rM1EKDwgREbIg+jooQpBGdy7TxeebOt7W4VwrZyTMghexfEMrPl3ZWzKXUIDga/Gv1h6v0OSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\MyLib\\MyLib.csproj",
+  "projectFilePath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\MyLib\\MyLib.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

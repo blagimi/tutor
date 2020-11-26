@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Params\\Params.csproj": {}
+    "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Params\\Params.csproj": {}
   },
   "projects": {
-    "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Params\\Params.csproj": {
+    "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Params\\Params.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Params\\Params.csproj",
+        "projectUniqueName": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Params\\Params.csproj",
         "projectName": "Params",
-        "projectPath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Params\\Params.csproj",
+        "projectPath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Params\\Params.csproj",
         "packagesPath": "C:\\Users\\blagi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Params\\obj\\",
+        "outputPath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Params\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\blagi\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\VoshodyashieNizhodyshiePreobrazovania\\VoshodyashieNizhodyshiePreobrazovania.csproj": {}
+    "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\VoshodyashieNizhodyshiePreobrazovania\\VoshodyashieNizhodyshiePreobrazovania.csproj": {}
   },
   "projects": {
-    "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\VoshodyashieNizhodyshiePreobrazovania\\VoshodyashieNizhodyshiePreobrazovania.csproj": {
+    "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\VoshodyashieNizhodyshiePreobrazovania\\VoshodyashieNizhodyshiePreobrazovania.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\VoshodyashieNizhodyshiePreobrazovania\\VoshodyashieNizhodyshiePreobrazovania.csproj",
+        "projectUniqueName": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\VoshodyashieNizhodyshiePreobrazovania\\VoshodyashieNizhodyshiePreobrazovania.csproj",
         "projectName": "VoshodyashieNizhodyshiePreobrazovania",
-        "projectPath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\VoshodyashieNizhodyshiePreobrazovania\\VoshodyashieNizhodyshiePreobrazovania.csproj",
+        "projectPath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\VoshodyashieNizhodyshiePreobrazovania\\VoshodyashieNizhodyshiePreobrazovania.csproj",
         "packagesPath": "C:\\Users\\blagi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\VoshodyashieNizhodyshiePreobrazovania\\obj\\",
+        "outputPath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\VoshodyashieNizhodyshiePreobrazovania\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\blagi\\AppData\\Roaming\\NuGet\\NuGet.Config",

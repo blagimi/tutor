@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k+umy9luQAJvxlzBDL/bUFsrpfThCQrZ6KhFn8wGyJ/OSjPhrFt1ZoEmoxdClSIBEbMpif6q+z/RXWWNAeDdLQ==",
+  "dgSpecHash": "HU29+RnJgFKIA6I1aYjR2RoroxKsE5rNK+B8dZbZIBl4ySEwC48hiyUS6BxRm3Y16tEDIO+WNMwY7D0twEfEnA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\LogicCrypt\\LogicCrypt.csproj",
+  "projectFilePath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\LogicCrypt\\LogicCrypt.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

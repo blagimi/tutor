@@ -1,0 +1,13 @@
+C:\Users\blagi\source\repos\tutor\Core\Events\bin\Debug\netcoreapp3.1\Events.exe
+C:\Users\blagi\source\repos\tutor\Core\Events\bin\Debug\netcoreapp3.1\Events.deps.json
+C:\Users\blagi\source\repos\tutor\Core\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.json
+C:\Users\blagi\source\repos\tutor\Core\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.dev.json
+C:\Users\blagi\source\repos\tutor\Core\Events\bin\Debug\netcoreapp3.1\Events.dll
+C:\Users\blagi\source\repos\tutor\Core\Events\bin\Debug\netcoreapp3.1\Events.pdb
+C:\Users\blagi\source\repos\tutor\Core\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\Events\obj\Debug\netcoreapp3.1\Events.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\Events\obj\Debug\netcoreapp3.1\Events.dll
+C:\Users\blagi\source\repos\tutor\Core\Events\obj\Debug\netcoreapp3.1\Events.pdb
+C:\Users\blagi\source\repos\tutor\Core\Events\obj\Debug\netcoreapp3.1\Events.genruntimeconfig.cache
+C:\Users\blagi\source\repos\tutor\Core\Events\obj\Debug\netcoreapp3.1\Events.csprojAssemblyReference.cache

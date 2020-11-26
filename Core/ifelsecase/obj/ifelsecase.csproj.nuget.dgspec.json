@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\ifelsecase\\ifelsecase.csproj": {}
+    "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\ifelsecase\\ifelsecase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\ifelsecase\\ifelsecase.csproj": {
+    "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\ifelsecase\\ifelsecase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\ifelsecase\\ifelsecase.csproj",
+        "projectUniqueName": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\ifelsecase\\ifelsecase.csproj",
         "projectName": "ifelsecase",
-        "projectPath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\ifelsecase\\ifelsecase.csproj",
+        "projectPath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\ifelsecase\\ifelsecase.csproj",
         "packagesPath": "C:\\Users\\blagi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\ifelsecase\\obj\\",
+        "outputPath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\ifelsecase\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\blagi\\AppData\\Roaming\\NuGet\\NuGet.Config",

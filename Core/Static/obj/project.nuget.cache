@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jJI/kpX/hLsQ6+JY2g9XXSPTmz6Yw7qz0YZRG3OwPaDCD9dPvoOZY2kE/gRjEoVRQRW8RoVYiBX6YX5gjFvaeA==",
+  "dgSpecHash": "+wAVEOvPd3FxuHRseYeFEhnksDvYtC+IWe0lCbeUUMjgD8CpoMQ28G3h3LCN4WpNiFR5cbsPiw3pv95YRxJRzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Static\\Static.csproj",
+  "projectFilePath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Static\\Static.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

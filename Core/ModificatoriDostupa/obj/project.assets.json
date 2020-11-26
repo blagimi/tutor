@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\ModificatoriDostupa\\ModificatoriDostupa.csproj",
+      "projectUniqueName": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\ModificatoriDostupa\\ModificatoriDostupa.csproj",
       "projectName": "ModificatoriDostupa",
-      "projectPath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\ModificatoriDostupa\\ModificatoriDostupa.csproj",
+      "projectPath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\ModificatoriDostupa\\ModificatoriDostupa.csproj",
       "packagesPath": "C:\\Users\\blagi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\ModificatoriDostupa\\obj\\",
+      "outputPath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\ModificatoriDostupa\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\blagi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\MyLib\\MyLib.csproj": {
-              "projectPath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\MyLib\\MyLib.csproj"
+            "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\MyLib\\MyLib.csproj": {
+              "projectPath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\MyLib\\MyLib.csproj"
             }
           }
         }

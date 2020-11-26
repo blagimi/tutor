@@ -1,0 +1,13 @@
+C:\Users\blagi\source\repos\tutor\Core\LyambdiAndEvents\bin\Debug\netcoreapp3.1\Lyambdi.exe
+C:\Users\blagi\source\repos\tutor\Core\LyambdiAndEvents\bin\Debug\netcoreapp3.1\Lyambdi.deps.json
+C:\Users\blagi\source\repos\tutor\Core\LyambdiAndEvents\bin\Debug\netcoreapp3.1\Lyambdi.runtimeconfig.json
+C:\Users\blagi\source\repos\tutor\Core\LyambdiAndEvents\bin\Debug\netcoreapp3.1\Lyambdi.runtimeconfig.dev.json
+C:\Users\blagi\source\repos\tutor\Core\LyambdiAndEvents\bin\Debug\netcoreapp3.1\Lyambdi.dll
+C:\Users\blagi\source\repos\tutor\Core\LyambdiAndEvents\bin\Debug\netcoreapp3.1\Lyambdi.pdb
+C:\Users\blagi\source\repos\tutor\Core\LyambdiAndEvents\obj\Debug\netcoreapp3.1\Lyambdi.csprojAssemblyReference.cache
+C:\Users\blagi\source\repos\tutor\Core\LyambdiAndEvents\obj\Debug\netcoreapp3.1\Lyambdi.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\LyambdiAndEvents\obj\Debug\netcoreapp3.1\Lyambdi.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\LyambdiAndEvents\obj\Debug\netcoreapp3.1\Lyambdi.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\LyambdiAndEvents\obj\Debug\netcoreapp3.1\Lyambdi.dll
+C:\Users\blagi\source\repos\tutor\Core\LyambdiAndEvents\obj\Debug\netcoreapp3.1\Lyambdi.pdb
+C:\Users\blagi\source\repos\tutor\Core\LyambdiAndEvents\obj\Debug\netcoreapp3.1\Lyambdi.genruntimeconfig.cache

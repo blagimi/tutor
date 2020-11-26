@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\PerezagryzkaOperaciy\\PerezagryzkaOperaciy.csproj": {}
+    "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\PerezagryzkaOperaciy\\PerezagryzkaOperaciy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\PerezagryzkaOperaciy\\PerezagryzkaOperaciy.csproj": {
+    "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\PerezagryzkaOperaciy\\PerezagryzkaOperaciy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\PerezagryzkaOperaciy\\PerezagryzkaOperaciy.csproj",
+        "projectUniqueName": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\PerezagryzkaOperaciy\\PerezagryzkaOperaciy.csproj",
         "projectName": "PerezagryzkaOperaciy",
-        "projectPath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\PerezagryzkaOperaciy\\PerezagryzkaOperaciy.csproj",
+        "projectPath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\PerezagryzkaOperaciy\\PerezagryzkaOperaciy.csproj",
         "packagesPath": "C:\\Users\\blagi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\PerezagryzkaOperaciy\\obj\\",
+        "outputPath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\PerezagryzkaOperaciy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\blagi\\AppData\\Roaming\\NuGet\\NuGet.Config",

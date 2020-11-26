@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+hiFdph3SZCbLh9u37b33W/l45wRdk26nnUqsP+gw8JjjVwvqrGauAh2HpieNoAc+mzpmsOazxYWHCQQU+3TPw==",
+  "dgSpecHash": "mxK+xhYlUcoPKHEelDmJcF2IBYxkn2XnV+d7ZTw0z6CiKHaYFl8yzHyn9EaqYdTQ/xdQi1WFlAJQrZJOR/ljhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\MassTest\\MassTest.csproj",
+  "projectFilePath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\MassTest\\MassTest.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

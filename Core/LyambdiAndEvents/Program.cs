@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LyambdiAndEvents
+namespace Lyambdi
 {
     class Program
     {

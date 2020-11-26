@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ugjF8nsIrdGdW30Nz+40C10MzJFTupKerbjG1jp/awA9HIgn9l3Ajcwc2GSuCxE6eFGSXruzOQfZD1LvnmbrzQ==",
+  "dgSpecHash": "8NTNG7S0BgiGJdYdT3xU6Y/gdbWHfQZDP5A15ZG3T7gzOlyZWE5VdqR2kUJKH9g/xvDPjQBSNnmFiwB2Qu0Zew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\blagi\\Source\\Repos\\tutor\\Core\\Params\\Params.csproj",
+  "projectFilePath": "C:\\Users\\blagi\\source\\repos\\tutor\\Core\\Params\\Params.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
