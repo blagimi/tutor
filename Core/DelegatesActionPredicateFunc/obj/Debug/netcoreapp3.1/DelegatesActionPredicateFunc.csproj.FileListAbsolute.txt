@@ -1,0 +1,13 @@
+C:\Users\blagi\source\repos\tutor\Core\DelegatesActionPredicateFunc\bin\Debug\netcoreapp3.1\DelegatesActionPredicateFunc.exe
+C:\Users\blagi\source\repos\tutor\Core\DelegatesActionPredicateFunc\bin\Debug\netcoreapp3.1\DelegatesActionPredicateFunc.deps.json
+C:\Users\blagi\source\repos\tutor\Core\DelegatesActionPredicateFunc\bin\Debug\netcoreapp3.1\DelegatesActionPredicateFunc.runtimeconfig.json
+C:\Users\blagi\source\repos\tutor\Core\DelegatesActionPredicateFunc\bin\Debug\netcoreapp3.1\DelegatesActionPredicateFunc.runtimeconfig.dev.json
+C:\Users\blagi\source\repos\tutor\Core\DelegatesActionPredicateFunc\bin\Debug\netcoreapp3.1\DelegatesActionPredicateFunc.dll
+C:\Users\blagi\source\repos\tutor\Core\DelegatesActionPredicateFunc\bin\Debug\netcoreapp3.1\DelegatesActionPredicateFunc.pdb
+C:\Users\blagi\source\repos\tutor\Core\DelegatesActionPredicateFunc\obj\Debug\netcoreapp3.1\DelegatesActionPredicateFunc.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\DelegatesActionPredicateFunc\obj\Debug\netcoreapp3.1\DelegatesActionPredicateFunc.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\DelegatesActionPredicateFunc\obj\Debug\netcoreapp3.1\DelegatesActionPredicateFunc.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\DelegatesActionPredicateFunc\obj\Debug\netcoreapp3.1\DelegatesActionPredicateFunc.dll
+C:\Users\blagi\source\repos\tutor\Core\DelegatesActionPredicateFunc\obj\Debug\netcoreapp3.1\DelegatesActionPredicateFunc.pdb
+C:\Users\blagi\source\repos\tutor\Core\DelegatesActionPredicateFunc\obj\Debug\netcoreapp3.1\DelegatesActionPredicateFunc.genruntimeconfig.cache
+C:\Users\blagi\source\repos\tutor\Core\DelegatesActionPredicateFunc\obj\Debug\netcoreapp3.1\DelegatesActionPredicateFunc.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\blagi\source\repos\tutor\Core\InterfaceBasics\bin\Debug\netcoreapp3.1\InterfaceBasics.exe
+C:\Users\blagi\source\repos\tutor\Core\InterfaceBasics\bin\Debug\netcoreapp3.1\InterfaceBasics.deps.json
+C:\Users\blagi\source\repos\tutor\Core\InterfaceBasics\bin\Debug\netcoreapp3.1\InterfaceBasics.runtimeconfig.json
+C:\Users\blagi\source\repos\tutor\Core\InterfaceBasics\bin\Debug\netcoreapp3.1\InterfaceBasics.runtimeconfig.dev.json
+C:\Users\blagi\source\repos\tutor\Core\InterfaceBasics\bin\Debug\netcoreapp3.1\InterfaceBasics.dll
+C:\Users\blagi\source\repos\tutor\Core\InterfaceBasics\bin\Debug\netcoreapp3.1\InterfaceBasics.pdb
+C:\Users\blagi\source\repos\tutor\Core\InterfaceBasics\obj\Debug\netcoreapp3.1\InterfaceBasics.csprojAssemblyReference.cache
+C:\Users\blagi\source\repos\tutor\Core\InterfaceBasics\obj\Debug\netcoreapp3.1\InterfaceBasics.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\InterfaceBasics\obj\Debug\netcoreapp3.1\InterfaceBasics.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\InterfaceBasics\obj\Debug\netcoreapp3.1\InterfaceBasics.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\InterfaceBasics\obj\Debug\netcoreapp3.1\InterfaceBasics.dll
+C:\Users\blagi\source\repos\tutor\Core\InterfaceBasics\obj\Debug\netcoreapp3.1\InterfaceBasics.pdb
+C:\Users\blagi\source\repos\tutor\Core\InterfaceBasics\obj\Debug\netcoreapp3.1\InterfaceBasics.genruntimeconfig.cache

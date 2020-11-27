@@ -10,3 +10,4 @@ C:\Users\blagi\source\repos\tutor\Core\DelegateKovariativnost\obj\Debug\netcorea
 C:\Users\blagi\source\repos\tutor\Core\DelegateKovariativnost\obj\Debug\netcoreapp3.1\DelegateKovariativnost.dll
 C:\Users\blagi\source\repos\tutor\Core\DelegateKovariativnost\obj\Debug\netcoreapp3.1\DelegateKovariativnost.pdb
 C:\Users\blagi\source\repos\tutor\Core\DelegateKovariativnost\obj\Debug\netcoreapp3.1\DelegateKovariativnost.genruntimeconfig.cache
+C:\Users\blagi\source\repos\tutor\Core\DelegateKovariativnost\obj\Debug\netcoreapp3.1\DelegateKovariativnost.csprojAssemblyReference.cache
