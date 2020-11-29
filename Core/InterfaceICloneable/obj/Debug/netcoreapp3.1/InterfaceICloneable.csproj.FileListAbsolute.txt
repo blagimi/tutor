@@ -1,0 +1,13 @@
+C:\Users\blagi\source\repos\tutor\Core\InterfaceICloneable\bin\Debug\netcoreapp3.1\InterfaceICloneable.exe
+C:\Users\blagi\source\repos\tutor\Core\InterfaceICloneable\bin\Debug\netcoreapp3.1\InterfaceICloneable.deps.json
+C:\Users\blagi\source\repos\tutor\Core\InterfaceICloneable\bin\Debug\netcoreapp3.1\InterfaceICloneable.runtimeconfig.json
+C:\Users\blagi\source\repos\tutor\Core\InterfaceICloneable\bin\Debug\netcoreapp3.1\InterfaceICloneable.runtimeconfig.dev.json
+C:\Users\blagi\source\repos\tutor\Core\InterfaceICloneable\bin\Debug\netcoreapp3.1\InterfaceICloneable.dll
+C:\Users\blagi\source\repos\tutor\Core\InterfaceICloneable\bin\Debug\netcoreapp3.1\InterfaceICloneable.pdb
+C:\Users\blagi\source\repos\tutor\Core\InterfaceICloneable\obj\Debug\netcoreapp3.1\InterfaceICloneable.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\InterfaceICloneable\obj\Debug\netcoreapp3.1\InterfaceICloneable.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\InterfaceICloneable\obj\Debug\netcoreapp3.1\InterfaceICloneable.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\InterfaceICloneable\obj\Debug\netcoreapp3.1\InterfaceICloneable.dll
+C:\Users\blagi\source\repos\tutor\Core\InterfaceICloneable\obj\Debug\netcoreapp3.1\InterfaceICloneable.pdb
+C:\Users\blagi\source\repos\tutor\Core\InterfaceICloneable\obj\Debug\netcoreapp3.1\InterfaceICloneable.genruntimeconfig.cache
+C:\Users\blagi\source\repos\tutor\Core\InterfaceICloneable\obj\Debug\netcoreapp3.1\InterfaceICloneable.csprojAssemblyReference.cache

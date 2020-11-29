@@ -1,0 +1,12 @@
+C:\Users\blagi\source\repos\tutor\Core\InterfaceInChildClass\bin\Debug\netcoreapp3.1\InterfaceInChildClass.exe
+C:\Users\blagi\source\repos\tutor\Core\InterfaceInChildClass\bin\Debug\netcoreapp3.1\InterfaceInChildClass.deps.json
+C:\Users\blagi\source\repos\tutor\Core\InterfaceInChildClass\bin\Debug\netcoreapp3.1\InterfaceInChildClass.runtimeconfig.json
+C:\Users\blagi\source\repos\tutor\Core\InterfaceInChildClass\bin\Debug\netcoreapp3.1\InterfaceInChildClass.runtimeconfig.dev.json
+C:\Users\blagi\source\repos\tutor\Core\InterfaceInChildClass\bin\Debug\netcoreapp3.1\InterfaceInChildClass.dll
+C:\Users\blagi\source\repos\tutor\Core\InterfaceInChildClass\bin\Debug\netcoreapp3.1\InterfaceInChildClass.pdb
+C:\Users\blagi\source\repos\tutor\Core\InterfaceInChildClass\obj\Debug\netcoreapp3.1\InterfaceInChildClass.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\InterfaceInChildClass\obj\Debug\netcoreapp3.1\InterfaceInChildClass.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\InterfaceInChildClass\obj\Debug\netcoreapp3.1\InterfaceInChildClass.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\InterfaceInChildClass\obj\Debug\netcoreapp3.1\InterfaceInChildClass.dll
+C:\Users\blagi\source\repos\tutor\Core\InterfaceInChildClass\obj\Debug\netcoreapp3.1\InterfaceInChildClass.pdb
+C:\Users\blagi\source\repos\tutor\Core\InterfaceInChildClass\obj\Debug\netcoreapp3.1\InterfaceInChildClass.genruntimeconfig.cache

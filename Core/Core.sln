@@ -77,9 +77,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Events", "Events\Events.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateKovariativnost", "DelegateKovariativnost\DelegateKovariativnost.csproj", "{46E10234-8FAC-424A-9624-5B0D7A9883C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesActionPredicateFunc", "DelegatesActionPredicateFunc\DelegatesActionPredicateFunc.csproj", "{09A48156-584F-45FB-9404-860505D57303}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegatesActionPredicateFunc", "DelegatesActionPredicateFunc\DelegatesActionPredicateFunc.csproj", "{09A48156-584F-45FB-9404-860505D57303}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceBasics", "InterfaceBasics\InterfaceBasics.csproj", "{CFFFC696-7D93-47CE-8A92-22FE31875F6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceBasics", "InterfaceBasics\InterfaceBasics.csproj", "{CFFFC696-7D93-47CE-8A92-22FE31875F6F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceRealization", "InterfaceRealization\InterfaceRealization.csproj", "{05DB0477-07E6-4E30-8C60-077F222E5077}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceInChildClass", "InterfaceInChildClass\InterfaceInChildClass.csproj", "{F6114B9B-1F04-48D2-903E-FB94D2FD843C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceT", "InterfaceT\InterfaceT.csproj", "{73B61617-CC60-4C03-8E98-CF0D7F6FE11E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceICloneable", "InterfaceICloneable\InterfaceICloneable.csproj", "{977F2F00-2452-4048-B53B-C89838B1CA70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceIComparable", "InterfaceIComparable\InterfaceIComparable.csproj", "{AF95431C-635D-427B-B13B-02F7A6769405}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceKovaKontrAndInvariativnost", "InterfaceKovaKontrAndInvariativnost\InterfaceKovaKontrAndInvariativnost.csproj", "{0BF47998-F17A-4A67-8B5C-94BBB26A3F0F}"
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
@@ -242,6 +254,30 @@ Global
 		{CFFFC696-7D93-47CE-8A92-22FE31875F6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFFFC696-7D93-47CE-8A92-22FE31875F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFFFC696-7D93-47CE-8A92-22FE31875F6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05DB0477-07E6-4E30-8C60-077F222E5077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05DB0477-07E6-4E30-8C60-077F222E5077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05DB0477-07E6-4E30-8C60-077F222E5077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05DB0477-07E6-4E30-8C60-077F222E5077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6114B9B-1F04-48D2-903E-FB94D2FD843C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6114B9B-1F04-48D2-903E-FB94D2FD843C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6114B9B-1F04-48D2-903E-FB94D2FD843C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6114B9B-1F04-48D2-903E-FB94D2FD843C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73B61617-CC60-4C03-8E98-CF0D7F6FE11E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B61617-CC60-4C03-8E98-CF0D7F6FE11E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B61617-CC60-4C03-8E98-CF0D7F6FE11E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B61617-CC60-4C03-8E98-CF0D7F6FE11E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{977F2F00-2452-4048-B53B-C89838B1CA70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{977F2F00-2452-4048-B53B-C89838B1CA70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{977F2F00-2452-4048-B53B-C89838B1CA70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{977F2F00-2452-4048-B53B-C89838B1CA70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF95431C-635D-427B-B13B-02F7A6769405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF95431C-635D-427B-B13B-02F7A6769405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF95431C-635D-427B-B13B-02F7A6769405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF95431C-635D-427B-B13B-02F7A6769405}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BF47998-F17A-4A67-8B5C-94BBB26A3F0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BF47998-F17A-4A67-8B5C-94BBB26A3F0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BF47998-F17A-4A67-8B5C-94BBB26A3F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BF47998-F17A-4A67-8B5C-94BBB26A3F0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

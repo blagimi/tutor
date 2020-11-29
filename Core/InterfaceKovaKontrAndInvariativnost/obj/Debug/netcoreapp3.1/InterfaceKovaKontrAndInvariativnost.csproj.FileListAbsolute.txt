@@ -1,0 +1,12 @@
+C:\Users\blagi\source\repos\tutor\Core\InterfaceKovaKontrAndInvariativnost\bin\Debug\netcoreapp3.1\InterfaceKovaKontrAndInvariativnost.exe
+C:\Users\blagi\source\repos\tutor\Core\InterfaceKovaKontrAndInvariativnost\bin\Debug\netcoreapp3.1\InterfaceKovaKontrAndInvariativnost.deps.json
+C:\Users\blagi\source\repos\tutor\Core\InterfaceKovaKontrAndInvariativnost\bin\Debug\netcoreapp3.1\InterfaceKovaKontrAndInvariativnost.runtimeconfig.json
+C:\Users\blagi\source\repos\tutor\Core\InterfaceKovaKontrAndInvariativnost\bin\Debug\netcoreapp3.1\InterfaceKovaKontrAndInvariativnost.runtimeconfig.dev.json
+C:\Users\blagi\source\repos\tutor\Core\InterfaceKovaKontrAndInvariativnost\bin\Debug\netcoreapp3.1\InterfaceKovaKontrAndInvariativnost.dll
+C:\Users\blagi\source\repos\tutor\Core\InterfaceKovaKontrAndInvariativnost\bin\Debug\netcoreapp3.1\InterfaceKovaKontrAndInvariativnost.pdb
+C:\Users\blagi\source\repos\tutor\Core\InterfaceKovaKontrAndInvariativnost\obj\Debug\netcoreapp3.1\InterfaceKovaKontrAndInvariativnost.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\InterfaceKovaKontrAndInvariativnost\obj\Debug\netcoreapp3.1\InterfaceKovaKontrAndInvariativnost.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\InterfaceKovaKontrAndInvariativnost\obj\Debug\netcoreapp3.1\InterfaceKovaKontrAndInvariativnost.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\InterfaceKovaKontrAndInvariativnost\obj\Debug\netcoreapp3.1\InterfaceKovaKontrAndInvariativnost.dll
+C:\Users\blagi\source\repos\tutor\Core\InterfaceKovaKontrAndInvariativnost\obj\Debug\netcoreapp3.1\InterfaceKovaKontrAndInvariativnost.pdb
+C:\Users\blagi\source\repos\tutor\Core\InterfaceKovaKontrAndInvariativnost\obj\Debug\netcoreapp3.1\InterfaceKovaKontrAndInvariativnost.genruntimeconfig.cache

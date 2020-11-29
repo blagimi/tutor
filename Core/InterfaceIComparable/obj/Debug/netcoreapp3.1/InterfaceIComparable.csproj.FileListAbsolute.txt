@@ -1,0 +1,12 @@
+C:\Users\blagi\source\repos\tutor\Core\InterfaceIComparable\bin\Debug\netcoreapp3.1\InterfaceIComparable.exe
+C:\Users\blagi\source\repos\tutor\Core\InterfaceIComparable\bin\Debug\netcoreapp3.1\InterfaceIComparable.deps.json
+C:\Users\blagi\source\repos\tutor\Core\InterfaceIComparable\bin\Debug\netcoreapp3.1\InterfaceIComparable.runtimeconfig.json
+C:\Users\blagi\source\repos\tutor\Core\InterfaceIComparable\bin\Debug\netcoreapp3.1\InterfaceIComparable.runtimeconfig.dev.json
+C:\Users\blagi\source\repos\tutor\Core\InterfaceIComparable\bin\Debug\netcoreapp3.1\InterfaceIComparable.dll
+C:\Users\blagi\source\repos\tutor\Core\InterfaceIComparable\bin\Debug\netcoreapp3.1\InterfaceIComparable.pdb
+C:\Users\blagi\source\repos\tutor\Core\InterfaceIComparable\obj\Debug\netcoreapp3.1\InterfaceIComparable.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\InterfaceIComparable\obj\Debug\netcoreapp3.1\InterfaceIComparable.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\InterfaceIComparable\obj\Debug\netcoreapp3.1\InterfaceIComparable.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\InterfaceIComparable\obj\Debug\netcoreapp3.1\InterfaceIComparable.dll
+C:\Users\blagi\source\repos\tutor\Core\InterfaceIComparable\obj\Debug\netcoreapp3.1\InterfaceIComparable.pdb
+C:\Users\blagi\source\repos\tutor\Core\InterfaceIComparable\obj\Debug\netcoreapp3.1\InterfaceIComparable.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\blagi\source\repos\tutor\Core\InterfaceT\bin\Debug\netcoreapp3.1\InterfaceT.exe
+C:\Users\blagi\source\repos\tutor\Core\InterfaceT\bin\Debug\netcoreapp3.1\InterfaceT.deps.json
+C:\Users\blagi\source\repos\tutor\Core\InterfaceT\bin\Debug\netcoreapp3.1\InterfaceT.runtimeconfig.json
+C:\Users\blagi\source\repos\tutor\Core\InterfaceT\bin\Debug\netcoreapp3.1\InterfaceT.runtimeconfig.dev.json
+C:\Users\blagi\source\repos\tutor\Core\InterfaceT\bin\Debug\netcoreapp3.1\InterfaceT.dll
+C:\Users\blagi\source\repos\tutor\Core\InterfaceT\bin\Debug\netcoreapp3.1\InterfaceT.pdb
+C:\Users\blagi\source\repos\tutor\Core\InterfaceT\obj\Debug\netcoreapp3.1\InterfaceT.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\InterfaceT\obj\Debug\netcoreapp3.1\InterfaceT.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\InterfaceT\obj\Debug\netcoreapp3.1\InterfaceT.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\InterfaceT\obj\Debug\netcoreapp3.1\InterfaceT.dll
+C:\Users\blagi\source\repos\tutor\Core\InterfaceT\obj\Debug\netcoreapp3.1\InterfaceT.pdb
+C:\Users\blagi\source\repos\tutor\Core\InterfaceT\obj\Debug\netcoreapp3.1\InterfaceT.genruntimeconfig.cache
+C:\Users\blagi\source\repos\tutor\Core\InterfaceT\obj\Debug\netcoreapp3.1\InterfaceT.csprojAssemblyReference.cache

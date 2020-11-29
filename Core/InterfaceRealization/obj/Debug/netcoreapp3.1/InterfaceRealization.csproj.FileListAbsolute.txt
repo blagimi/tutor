@@ -1,0 +1,12 @@
+C:\Users\blagi\source\repos\tutor\Core\InterfaceRealization\bin\Debug\netcoreapp3.1\InterfaceRealization.exe
+C:\Users\blagi\source\repos\tutor\Core\InterfaceRealization\bin\Debug\netcoreapp3.1\InterfaceRealization.deps.json
+C:\Users\blagi\source\repos\tutor\Core\InterfaceRealization\bin\Debug\netcoreapp3.1\InterfaceRealization.runtimeconfig.json
+C:\Users\blagi\source\repos\tutor\Core\InterfaceRealization\bin\Debug\netcoreapp3.1\InterfaceRealization.runtimeconfig.dev.json
+C:\Users\blagi\source\repos\tutor\Core\InterfaceRealization\bin\Debug\netcoreapp3.1\InterfaceRealization.dll
+C:\Users\blagi\source\repos\tutor\Core\InterfaceRealization\bin\Debug\netcoreapp3.1\InterfaceRealization.pdb
+C:\Users\blagi\source\repos\tutor\Core\InterfaceRealization\obj\Debug\netcoreapp3.1\InterfaceRealization.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\InterfaceRealization\obj\Debug\netcoreapp3.1\InterfaceRealization.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\InterfaceRealization\obj\Debug\netcoreapp3.1\InterfaceRealization.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\InterfaceRealization\obj\Debug\netcoreapp3.1\InterfaceRealization.dll
+C:\Users\blagi\source\repos\tutor\Core\InterfaceRealization\obj\Debug\netcoreapp3.1\InterfaceRealization.pdb
+C:\Users\blagi\source\repos\tutor\Core\InterfaceRealization\obj\Debug\netcoreapp3.1\InterfaceRealization.genruntimeconfig.cache
