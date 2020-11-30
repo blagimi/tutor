@@ -1,0 +1,12 @@
+C:\Users\blagi\source\repos\tutor\Core\PartialClassAndMethods\bin\Debug\netcoreapp3.1\PartialClassAndMethods.exe
+C:\Users\blagi\source\repos\tutor\Core\PartialClassAndMethods\bin\Debug\netcoreapp3.1\PartialClassAndMethods.deps.json
+C:\Users\blagi\source\repos\tutor\Core\PartialClassAndMethods\bin\Debug\netcoreapp3.1\PartialClassAndMethods.runtimeconfig.json
+C:\Users\blagi\source\repos\tutor\Core\PartialClassAndMethods\bin\Debug\netcoreapp3.1\PartialClassAndMethods.runtimeconfig.dev.json
+C:\Users\blagi\source\repos\tutor\Core\PartialClassAndMethods\bin\Debug\netcoreapp3.1\PartialClassAndMethods.dll
+C:\Users\blagi\source\repos\tutor\Core\PartialClassAndMethods\bin\Debug\netcoreapp3.1\PartialClassAndMethods.pdb
+C:\Users\blagi\source\repos\tutor\Core\PartialClassAndMethods\obj\Debug\netcoreapp3.1\PartialClassAndMethods.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\PartialClassAndMethods\obj\Debug\netcoreapp3.1\PartialClassAndMethods.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\PartialClassAndMethods\obj\Debug\netcoreapp3.1\PartialClassAndMethods.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\PartialClassAndMethods\obj\Debug\netcoreapp3.1\PartialClassAndMethods.dll
+C:\Users\blagi\source\repos\tutor\Core\PartialClassAndMethods\obj\Debug\netcoreapp3.1\PartialClassAndMethods.pdb
+C:\Users\blagi\source\repos\tutor\Core\PartialClassAndMethods\obj\Debug\netcoreapp3.1\PartialClassAndMethods.genruntimeconfig.cache

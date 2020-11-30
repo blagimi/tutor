@@ -1,0 +1,12 @@
+C:\Users\blagi\source\repos\tutor\Core\PatternKortej\bin\Debug\netcoreapp3.1\PatternKortej.exe
+C:\Users\blagi\source\repos\tutor\Core\PatternKortej\bin\Debug\netcoreapp3.1\PatternKortej.deps.json
+C:\Users\blagi\source\repos\tutor\Core\PatternKortej\bin\Debug\netcoreapp3.1\PatternKortej.runtimeconfig.json
+C:\Users\blagi\source\repos\tutor\Core\PatternKortej\bin\Debug\netcoreapp3.1\PatternKortej.runtimeconfig.dev.json
+C:\Users\blagi\source\repos\tutor\Core\PatternKortej\bin\Debug\netcoreapp3.1\PatternKortej.dll
+C:\Users\blagi\source\repos\tutor\Core\PatternKortej\bin\Debug\netcoreapp3.1\PatternKortej.pdb
+C:\Users\blagi\source\repos\tutor\Core\PatternKortej\obj\Debug\netcoreapp3.1\PatternKortej.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\PatternKortej\obj\Debug\netcoreapp3.1\PatternKortej.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\PatternKortej\obj\Debug\netcoreapp3.1\PatternKortej.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\PatternKortej\obj\Debug\netcoreapp3.1\PatternKortej.dll
+C:\Users\blagi\source\repos\tutor\Core\PatternKortej\obj\Debug\netcoreapp3.1\PatternKortej.pdb
+C:\Users\blagi\source\repos\tutor\Core\PatternKortej\obj\Debug\netcoreapp3.1\PatternKortej.genruntimeconfig.cache

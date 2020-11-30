@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PatternSvoistva/1.0.0": {
+        "runtime": {
+          "PatternSvoistva.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PatternSvoistva/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

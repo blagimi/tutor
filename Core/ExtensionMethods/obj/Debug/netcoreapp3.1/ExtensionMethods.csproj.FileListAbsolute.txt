@@ -1,0 +1,12 @@
+C:\Users\blagi\source\repos\tutor\Core\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.exe
+C:\Users\blagi\source\repos\tutor\Core\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.deps.json
+C:\Users\blagi\source\repos\tutor\Core\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.runtimeconfig.json
+C:\Users\blagi\source\repos\tutor\Core\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.runtimeconfig.dev.json
+C:\Users\blagi\source\repos\tutor\Core\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.dll
+C:\Users\blagi\source\repos\tutor\Core\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.pdb
+C:\Users\blagi\source\repos\tutor\Core\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.dll
+C:\Users\blagi\source\repos\tutor\Core\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.pdb
+C:\Users\blagi\source\repos\tutor\Core\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.genruntimeconfig.cache

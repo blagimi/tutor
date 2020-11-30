@@ -1,0 +1,12 @@
+C:\Users\blagi\source\repos\tutor\Core\AnonimType\bin\Debug\netcoreapp3.1\AnonimType.exe
+C:\Users\blagi\source\repos\tutor\Core\AnonimType\bin\Debug\netcoreapp3.1\AnonimType.deps.json
+C:\Users\blagi\source\repos\tutor\Core\AnonimType\bin\Debug\netcoreapp3.1\AnonimType.runtimeconfig.json
+C:\Users\blagi\source\repos\tutor\Core\AnonimType\bin\Debug\netcoreapp3.1\AnonimType.runtimeconfig.dev.json
+C:\Users\blagi\source\repos\tutor\Core\AnonimType\bin\Debug\netcoreapp3.1\AnonimType.dll
+C:\Users\blagi\source\repos\tutor\Core\AnonimType\bin\Debug\netcoreapp3.1\AnonimType.pdb
+C:\Users\blagi\source\repos\tutor\Core\AnonimType\obj\Debug\netcoreapp3.1\AnonimType.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\AnonimType\obj\Debug\netcoreapp3.1\AnonimType.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\AnonimType\obj\Debug\netcoreapp3.1\AnonimType.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\AnonimType\obj\Debug\netcoreapp3.1\AnonimType.dll
+C:\Users\blagi\source\repos\tutor\Core\AnonimType\obj\Debug\netcoreapp3.1\AnonimType.pdb
+C:\Users\blagi\source\repos\tutor\Core\AnonimType\obj\Debug\netcoreapp3.1\AnonimType.genruntimeconfig.cache

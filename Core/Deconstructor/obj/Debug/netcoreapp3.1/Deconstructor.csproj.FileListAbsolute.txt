@@ -1,0 +1,12 @@
+C:\Users\blagi\source\repos\tutor\Core\Deconstructor\bin\Debug\netcoreapp3.1\Deconstructor.exe
+C:\Users\blagi\source\repos\tutor\Core\Deconstructor\bin\Debug\netcoreapp3.1\Deconstructor.deps.json
+C:\Users\blagi\source\repos\tutor\Core\Deconstructor\bin\Debug\netcoreapp3.1\Deconstructor.runtimeconfig.json
+C:\Users\blagi\source\repos\tutor\Core\Deconstructor\bin\Debug\netcoreapp3.1\Deconstructor.runtimeconfig.dev.json
+C:\Users\blagi\source\repos\tutor\Core\Deconstructor\bin\Debug\netcoreapp3.1\Deconstructor.dll
+C:\Users\blagi\source\repos\tutor\Core\Deconstructor\bin\Debug\netcoreapp3.1\Deconstructor.pdb
+C:\Users\blagi\source\repos\tutor\Core\Deconstructor\obj\Debug\netcoreapp3.1\Deconstructor.AssemblyInfoInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\Deconstructor\obj\Debug\netcoreapp3.1\Deconstructor.AssemblyInfo.cs
+C:\Users\blagi\source\repos\tutor\Core\Deconstructor\obj\Debug\netcoreapp3.1\Deconstructor.csproj.CoreCompileInputs.cache
+C:\Users\blagi\source\repos\tutor\Core\Deconstructor\obj\Debug\netcoreapp3.1\Deconstructor.dll
+C:\Users\blagi\source\repos\tutor\Core\Deconstructor\obj\Debug\netcoreapp3.1\Deconstructor.pdb
+C:\Users\blagi\source\repos\tutor\Core\Deconstructor\obj\Debug\netcoreapp3.1\Deconstructor.genruntimeconfig.cache
